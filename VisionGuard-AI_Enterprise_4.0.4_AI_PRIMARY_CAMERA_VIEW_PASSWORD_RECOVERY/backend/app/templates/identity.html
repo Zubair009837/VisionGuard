@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>VisionGuard AI - Device Identity Alert</title>
+
+<style>
+
+body{
+    margin:0;
+    padding:30px;
+    background:#f4f6f9;
+    font-family:Segoe UI,Arial,sans-serif;
+}
+
+.container{
+    max-width:700px;
+    margin:auto;
+    background:#ffffff;
+    border-radius:10px;
+    overflow:hidden;
+    box-shadow:0 4px 15px rgba(0,0,0,.12);
+}
+
+.header{
+    background:#c62828;
+    color:#ffffff;
+    padding:25px;
+}
+
+.header h2{
+    margin:0;
+}
+
+.sub{
+    margin-top:6px;
+    opacity:.9;
+    font-size:14px;
+}
+
+.content{
+    padding:25px;
+}
+
+.alert{
+    background:#fff3f3;
+    border-left:6px solid #c62828;
+    padding:18px;
+    color:#7f1d1d;
+    margin-bottom:25px;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+td{
+    padding:12px;
+    border-bottom:1px solid #ececec;
+}
+
+.label{
+    width:220px;
+    font-weight:bold;
+    color:#555;
+}
+
+.badge{
+    background:#c62828;
+    color:white;
+    padding:6px 14px;
+    border-radius:18px;
+    font-size:12px;
+    font-weight:bold;
+}
+
+.notice{
+    margin-top:25px;
+    background:#f8fafc;
+    border-left:5px solid #1976d2;
+    padding:18px;
+}
+
+.footer{
+    background:#f8fafc;
+    padding:20px;
+    text-align:center;
+    color:#777;
+    font-size:13px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="header">
+
+<h2>🚨 Device Identity Changed</h2>
+
+<div class="sub">
+
+{{brand}} Enterprise Security Monitoring
+
+</div>
+
+</div>
+
+<div class="content">
+
+<div class="alert">
+
+<b>Security Alert</b>
+
+<br><br>
+
+A monitored device identity has changed. Please verify that this modification was expected.
+
+</div>
+
+<table>
+
+<tr>
+<td class="label">Camera</td>
+<td>{{camera}}</td>
+</tr>
+
+<tr>
+<td class="label">NVR</td>
+<td>{{nvr}}</td>
+</tr>
+
+<tr>
+<td class="label">IP Address</td>
+<td>{{ip}}</td>
+</tr>
+
+<tr>
+<td class="label">Detection Time</td>
+<td>{{time}}</td>
+</tr>
+
+<tr>
+<td class="label">Status</td>
+<td>
+<span class="badge">
+IDENTITY CHANGED
+</span>
+</td>
+</tr>
+
+</table>
+
+<div class="notice">
+
+<b>Recommended Actions</b>
+
+<ul>
+
+<li>Verify the physical device.</li>
+
+<li>Confirm Serial Number and MAC Address.</li>
+
+<li>Review recent maintenance activities.</li>
+
+<li>Investigate any unauthorized replacement.</li>
+
+<li>Check firmware and device configuration.</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="footer">
+
+<b>{{brand}}</b>
+
+<br><br>
+
+This is an automatically generated security notification.
+
+<br>
+
+Please do not reply to this email.
+
+</div>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "role": "Administrator",
+      "enabled": true,
+      "salt": "hWoYlbNI0AmvjxkrPLbR0A==",
+      "password_hash": "V5DY2chZPItZcS7f8zofmaetWZORBpKFQ20ApTuAD1Y=",
+      "created_at": "2026-08-17T14:23:34",
+      "password_changed_at": "2026-09-11T18:25:09"
+    },
+    {
+      "username": "khan",
+      "role": "Viewer",
+      "enabled": true,
+      "salt": "ukmK8S2OC5fX7wkEmDnYGg==",
+      "password_hash": "dQkciNsNskbpcLj4OdP1gWHRHY1+feDYpj9aqYIxitE=",
+      "created_at": "2026-09-11T19:01:09"
+    }
+  ]
+}

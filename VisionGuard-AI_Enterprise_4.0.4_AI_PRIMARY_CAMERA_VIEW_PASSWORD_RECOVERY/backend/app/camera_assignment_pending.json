@@ -1,0 +1,98 @@
+{
+  "name:qc table 1": {
+    "started_at": "2026-09-12T15:33:12.830048",
+    "candidate": {
+      "identity": "name:qc table 1",
+      "camera": "QC TABLE 1",
+      "ip": "192.168.1.82",
+      "nvr": "NVR-2",
+      "channel": 5,
+      "last_seen": "12-09-2026 03:33:12 PM"
+    },
+    "confirmation_seconds": 20
+  },
+  "name:qc table 7": {
+    "started_at": "2026-09-12T15:33:16.174544",
+    "candidate": {
+      "identity": "name:qc table 7",
+      "camera": "QC TABLE 7",
+      "ip": "192.168.1.92",
+      "nvr": "NVR-2",
+      "channel": 15,
+      "last_seen": "12-09-2026 03:33:16 PM"
+    },
+    "confirmation_seconds": 20
+  },
+  "name:pack 1": {
+    "started_at": "2026-08-18T17:31:38.170909",
+    "candidate": {
+      "identity": "name:pack 1",
+      "camera": "PACK 1",
+      "ip": "192.168.1.122",
+      "nvr": "NVR-1",
+      "channel": 9,
+      "last_seen": "18-08-2026 05:31:38 PM"
+    },
+    "confirmation_seconds": 20
+  },
+  "name:qc table  18": {
+    "started_at": "2026-09-12T15:33:17.032884",
+    "candidate": {
+      "identity": "name:qc table  18",
+      "camera": "QC TABLE  18",
+      "ip": "192.168.1.70",
+      "nvr": "NVR-5",
+      "channel": 23,
+      "last_seen": "12-09-2026 03:33:17 PM"
+    },
+    "confirmation_seconds": 20
+  },
+  "name:in   q1": {
+    "started_at": "2026-09-12T15:33:14.409567",
+    "candidate": {
+      "identity": "name:in   q1",
+      "camera": "IN   Q1",
+      "ip": "192.168.1.206",
+      "nvr": "NVR-11",
+      "channel": 10,
+      "last_seen": "12-09-2026 03:33:14 PM"
+    },
+    "confirmation_seconds": 20
+  },
+  "name:qc table 2": {
+    "started_at": "2026-09-12T15:33:16.384758",
+    "candidate": {
+      "identity": "name:qc table 2",
+      "camera": "QC TABLE 2",
+      "ip": "192.168.1.152",
+      "nvr": "NVR-7",
+      "channel": 16,
+      "last_seen": "12-09-2026 03:33:16 PM"
+    },
+    "confirmation_seconds": 20
+  },
+  "name:logistick": {
+    "started_at": "2026-09-12T15:33:17.227465",
+    "candidate": {
+      "identity": "name:logistick",
+      "camera": "LOGISTICK",
+      "ip": "192.168.1.118",
+      "nvr": "NVR-5",
+      "channel": 26,
+      "last_seen": "12-09-2026 03:33:17 PM"
+    },
+    "confirmation_seconds": 20
+  },
+  "name:cold room": {
+    "started_at": "2026-09-12T15:33:17.008318",
+    "candidate": {
+      "identity": "name:cold room",
+      "camera": "COLD ROOM",
+      "ip": "192.168.1.53",
+      "nvr": "NVR-4",
+      "channel": 26,
+      "last_seen": "12-09-2026 03:33:17 PM"
+    },
+    "confirmation_seconds": 20
+  }
+}

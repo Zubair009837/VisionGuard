@@ -1,0 +1,1696 @@
+[
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:11:20 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:11:24 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:11:25 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:11:29 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:11:30 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:11:35 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:11:36 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:11:41 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:11:42 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:11:45 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:11:48 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:11:54 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:11:54 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:11:55 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:12:00 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:12:00 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:13:26 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:13:46 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:14:07 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:14:27 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:15:05 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:15:43 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:16:22 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:16:43 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:17:03 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:17:23 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:18:02 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-12 Offline",
+        "description": "NVR-12 at 192.168.1.14:93 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 02:18:27 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN   M4",
+        "description": "NVR : NVR-10\nCamera : IN   M4\nIP : 192.168.1.12\nRecording Missing\nReason : DETECTED REASON: NO HARDWARE/CONFIGURATION FAULT CURRENTLY PROVEN\nEvidence: NVR reachable: YES; CH-11 enabled: None; Camera online: True; Video detect state: connect; Storage status: ONLINE; Storage used: 100.0%.\nA recording gap of 1m 0s is confirmed for CH-11, but the current NVR diagnostics do not expose a direct root cause. Most consistent with a temporary recording/indexing interruption; exact historical cause cannot be proven from the current ISAPI state.",
+        "time": "12-09-2026 02:18:41 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN     E 8",
+        "description": "NVR : NVR-12\nCamera : IN     E 8\nIP : 192.168.1.14\nRecording Missing\nReason : DETECTED REASON: CAMERA VIDEO SIGNAL LOST\nEvidence: CH-1 currently reports netUnreachable.\nThe NVR is reachable, but the camera/input is not providing a normal video signal.",
+        "time": "12-09-2026 02:20:33 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN    G5",
+        "description": "NVR : NVR-12\nCamera : IN    G5\nIP : 192.168.1.14\nRecording Missing\nReason : DETECTED REASON: CAMERA VIDEO SIGNAL LOST\nEvidence: CH-3 currently reports netUnreachable.\nThe NVR is reachable, but the camera/input is not providing a normal video signal.",
+        "time": "12-09-2026 02:20:37 PM"
+    },
+    {
+        "camera": "IN     E 8",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.213",
+        "status": "Offline",
+        "time": "12-09-2026 02:20:38 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN    E5",
+        "description": "NVR : NVR-12\nCamera : IN    E5\nIP : 192.168.1.14\nRecording Missing\nReason : DETECTED REASON: CAMERA VIDEO SIGNAL LOST\nEvidence: CH-4 currently reports netUnreachable.\nThe NVR is reachable, but the camera/input is not providing a normal video signal.",
+        "time": "12-09-2026 02:20:41 PM"
+    },
+    {
+        "camera": "IN    G5",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.215",
+        "status": "Offline",
+        "time": "12-09-2026 02:20:42 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN     F5",
+        "description": "NVR : NVR-12\nCamera : IN     F5\nIP : 192.168.1.14\nRecording Missing\nReason : DETECTED REASON: CAMERA VIDEO SIGNAL LOST\nEvidence: CH-5 currently reports netUnreachable.\nThe NVR is reachable, but the camera/input is not providing a normal video signal.",
+        "time": "12-09-2026 02:20:45 PM"
+    },
+    {
+        "camera": "IN    E5",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.217",
+        "status": "Offline",
+        "time": "12-09-2026 02:20:45 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN     G6",
+        "description": "NVR : NVR-12\nCamera : IN     G6\nIP : 192.168.1.14\nRecording Missing\nReason : DETECTED REASON: CAMERA VIDEO SIGNAL LOST\nEvidence: CH-6 currently reports netUnreachable.\nThe NVR is reachable, but the camera/input is not providing a normal video signal.",
+        "time": "12-09-2026 02:20:49 PM"
+    },
+    {
+        "camera": "IN     F5",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.219",
+        "status": "Offline",
+        "time": "12-09-2026 02:20:49 PM"
+    },
+    {
+        "camera": "IN     G6",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.220",
+        "status": "Offline",
+        "time": "12-09-2026 02:20:52 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN     F8",
+        "description": "NVR : NVR-12\nCamera : IN     F8\nIP : 192.168.1.14\nRecording Missing\nReason : DETECTED REASON: CAMERA VIDEO SIGNAL LOST\nEvidence: CH-7 currently reports netUnreachable.\nThe NVR is reachable, but the camera/input is not providing a normal video signal.",
+        "time": "12-09-2026 02:20:53 PM"
+    },
+    {
+        "camera": "IN     F8",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.214",
+        "status": "Offline",
+        "time": "12-09-2026 02:20:55 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN   D 7",
+        "description": "NVR : NVR-12\nCamera : IN   D 7\nIP : 192.168.1.14\nRecording Missing\nReason : DETECTED REASON: CAMERA VIDEO SIGNAL LOST\nEvidence: CH-8 currently reports netUnreachable.\nThe NVR is reachable, but the camera/input is not providing a normal video signal.",
+        "time": "12-09-2026 02:20:56 PM"
+    },
+    {
+        "camera": "IN   D 7",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.223",
+        "status": "Offline",
+        "time": "12-09-2026 02:20:58 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN    D5",
+        "description": "NVR : NVR-12\nCamera : IN    D5\nIP : 192.168.1.14\nRecording Missing\nReason : DETECTED REASON: CAMERA VIDEO SIGNAL LOST\nEvidence: CH-9 currently reports netUnreachable.\nThe NVR is reachable, but the camera/input is not providing a normal video signal.",
+        "time": "12-09-2026 02:21:00 PM"
+    },
+    {
+        "camera": "IN    D5",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.216",
+        "status": "Offline",
+        "time": "12-09-2026 02:21:02 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN   E6",
+        "description": "NVR : NVR-12\nCamera : IN   E6\nIP : 192.168.1.14\nRecording Missing\nReason : DETECTED REASON: CAMERA VIDEO SIGNAL LOST\nEvidence: CH-10 currently reports netUnreachable.\nThe NVR is reachable, but the camera/input is not providing a normal video signal.",
+        "time": "12-09-2026 02:21:04 PM"
+    },
+    {
+        "camera": "IN   E6",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.224",
+        "status": "Offline",
+        "time": "12-09-2026 02:21:05 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN   D6",
+        "description": "NVR : NVR-12\nCamera : IN   D6\nIP : 192.168.1.14\nRecording Missing\nReason : DETECTED REASON: CAMERA VIDEO SIGNAL LOST\nEvidence: CH-11 currently reports netUnreachable.\nThe NVR is reachable, but the camera/input is not providing a normal video signal.",
+        "time": "12-09-2026 02:21:08 PM"
+    },
+    {
+        "camera": "IN   D6",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.221",
+        "status": "Offline",
+        "time": "12-09-2026 02:21:08 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN     E7",
+        "description": "NVR : NVR-12\nCamera : IN     E7\nIP : 192.168.1.14\nRecording Missing\nReason : DETECTED REASON: CAMERA VIDEO SIGNAL LOST\nEvidence: CH-12 currently reports netUnreachable.\nThe NVR is reachable, but the camera/input is not providing a normal video signal.",
+        "time": "12-09-2026 02:21:11 PM"
+    },
+    {
+        "camera": "IN     E7",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.226",
+        "status": "Offline",
+        "time": "12-09-2026 02:21:11 PM"
+    },
+    {
+        "camera": "IN     F 7",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.218",
+        "status": "Offline",
+        "time": "12-09-2026 02:21:15 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN     F 7",
+        "description": "NVR : NVR-12\nCamera : IN     F 7\nIP : 192.168.1.14\nRecording Missing\nReason : DETECTED REASON: NO HARDWARE/CONFIGURATION FAULT CURRENTLY PROVEN\nEvidence: NVR reachable: YES; CH-13 enabled: None; Camera online: True; Video detect state: connect; Storage status: ONLINE; Storage used: 100.0%.\nA recording gap of 15m 43s is confirmed for CH-13, but the current NVR diagnostics do not expose a direct root cause. Most consistent with a temporary recording/indexing interruption; exact historical cause cannot be proven from the current ISAPI state.",
+        "time": "12-09-2026 02:21:17 PM"
+    },
+    {
+        "camera": "IN     F6",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.222",
+        "status": "Offline",
+        "time": "12-09-2026 02:21:19 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN     F6",
+        "description": "NVR : NVR-12\nCamera : IN     F6\nIP : 192.168.1.14\nRecording Missing\nReason : DETECTED REASON: NO HARDWARE/CONFIGURATION FAULT CURRENTLY PROVEN\nEvidence: NVR reachable: YES; CH-14 enabled: None; Camera online: True; Video detect state: connect; Storage status: ONLINE; Storage used: 100.0%.\nA recording gap of 14m 7s is confirmed for CH-14, but the current NVR diagnostics do not expose a direct root cause. Most consistent with a temporary recording/indexing interruption; exact historical cause cannot be proven from the current ISAPI state.",
+        "time": "12-09-2026 02:21:23 PM"
+    },
+    {
+        "camera": "IN     G7",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.225",
+        "status": "Offline",
+        "time": "12-09-2026 02:21:23 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN     G7",
+        "description": "NVR : NVR-12\nCamera : IN     G7\nIP : 192.168.1.14\nRecording Missing\nReason : DETECTED REASON: NO HARDWARE/CONFIGURATION FAULT CURRENTLY PROVEN\nEvidence: NVR reachable: YES; CH-15 enabled: None; Camera online: True; Video detect state: connect; Storage status: ONLINE; Storage used: 100.0%.\nA recording gap of 14m 10s is confirmed for CH-15, but the current NVR diagnostics do not expose a direct root cause. Most consistent with a temporary recording/indexing interruption; exact historical cause cannot be proven from the current ISAPI state.",
+        "time": "12-09-2026 02:21:26 PM"
+    },
+    {
+        "camera": "IN     E 8",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.213",
+        "status": "Recovered",
+        "time": "12-09-2026 02:21:36 PM"
+    },
+    {
+        "camera": "IN    G5",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.215",
+        "status": "Recovered",
+        "time": "12-09-2026 02:21:41 PM"
+    },
+    {
+        "camera": "IN    E5",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.217",
+        "status": "Recovered",
+        "time": "12-09-2026 02:21:45 PM"
+    },
+    {
+        "camera": "IN     F5",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.219",
+        "status": "Recovered",
+        "time": "12-09-2026 02:21:49 PM"
+    },
+    {
+        "camera": "IN     G6",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.220",
+        "status": "Recovered",
+        "time": "12-09-2026 02:21:52 PM"
+    },
+    {
+        "camera": "IN     F8",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.214",
+        "status": "Recovered",
+        "time": "12-09-2026 02:21:55 PM"
+    },
+    {
+        "camera": "IN   D 7",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.223",
+        "status": "Recovered",
+        "time": "12-09-2026 02:21:59 PM"
+    },
+    {
+        "camera": "IN    D5",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.216",
+        "status": "Recovered",
+        "time": "12-09-2026 02:22:03 PM"
+    },
+    {
+        "camera": "IN   E6",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.224",
+        "status": "Recovered",
+        "time": "12-09-2026 02:22:06 PM"
+    },
+    {
+        "camera": "IN   D6",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.221",
+        "status": "Recovered",
+        "time": "12-09-2026 02:22:09 PM"
+    },
+    {
+        "camera": "IN     E7",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.226",
+        "status": "Recovered",
+        "time": "12-09-2026 02:22:13 PM"
+    },
+    {
+        "camera": "IN     F 7",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.218",
+        "status": "Recovered",
+        "time": "12-09-2026 02:22:16 PM"
+    },
+    {
+        "camera": "IN     F6",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.222",
+        "status": "Recovered",
+        "time": "12-09-2026 02:22:20 PM"
+    },
+    {
+        "camera": "IN     G7",
+        "nvr": "NVR-12",
+        "ip": "192.168.1.225",
+        "status": "Recovered",
+        "time": "12-09-2026 02:22:23 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - Camera 01",
+        "description": "NVR : NVR-6\nCamera : Camera 01\nIP : 192.168.1.8\nRecording Missing\nReason : DETECTED REASON: NO HARDWARE/CONFIGURATION FAULT CURRENTLY PROVEN\nEvidence: NVR reachable: YES; CH-13 enabled: None; Camera online: True; Video detect state: connect; Storage status: ONLINE; Storage used: 100.0%.\nA recording gap of 1m 2s is confirmed for CH-13, but the current NVR diagnostics do not expose a direct root cause. Most consistent with a temporary recording/indexing interruption; exact historical cause cannot be proven from the current ISAPI state.",
+        "time": "12-09-2026 02:37:46 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN  C2",
+        "description": "NVR : NVR-6\nCamera : IN  C2\nIP : 192.168.1.8\nRecording Missing\nReason : DETECTED REASON: NO HARDWARE/CONFIGURATION FAULT CURRENTLY PROVEN\nEvidence: NVR reachable: YES; CH-8 enabled: None; Camera online: True; Video detect state: connect; Storage status: ONLINE; Storage used: 100.0%.\nA recording gap of 1m 1s is confirmed for CH-8, but the current NVR diagnostics do not expose a direct root cause. Most consistent with a temporary recording/indexing interruption; exact historical cause cannot be proven from the current ISAPI state.",
+        "time": "12-09-2026 02:43:04 PM"
+    },
+    {
+        "type": "RECORDING LOSS",
+        "severity": "CRITICAL",
+        "title": "Recording Loss - IN  B1",
+        "description": "NVR : NVR-6\nCamera : IN  B1\nIP : 192.168.1.8\nRecording Missing\nReason : DETECTED REASON: NO HARDWARE/CONFIGURATION FAULT CURRENTLY PROVEN\nEvidence: NVR reachable: YES; CH-1 enabled: None; Camera online: True; Video detect state: connect; Storage status: ONLINE; Storage used: 100.0%.\nA recording gap of 1m 8s is confirmed for CH-1, but the current NVR diagnostics do not expose a direct root cause. Most consistent with a temporary recording/indexing interruption; exact historical cause cannot be proven from the current ISAPI state.",
+        "time": "12-09-2026 02:46:18 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.2% (warning threshold 80%).",
+        "time": "12-09-2026 02:48:00 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.2% (warning threshold 80%).",
+        "time": "12-09-2026 02:48:07 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.2% (warning threshold 80%).",
+        "time": "12-09-2026 02:48:14 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.2% (warning threshold 80%).",
+        "time": "12-09-2026 02:48:21 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.1% (warning threshold 80%).",
+        "time": "12-09-2026 02:48:28 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.2% (warning threshold 80%).",
+        "time": "12-09-2026 02:48:35 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:48:42 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:48:48 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 83.3% (warning threshold 80%).",
+        "time": "12-09-2026 02:48:55 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.6% (warning threshold 80%).",
+        "time": "12-09-2026 02:49:47 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.0% (warning threshold 80%).",
+        "time": "12-09-2026 02:49:52 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.0% (warning threshold 80%).",
+        "time": "12-09-2026 02:50:00 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.0% (warning threshold 80%).",
+        "time": "12-09-2026 02:50:07 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.0% (warning threshold 80%).",
+        "time": "12-09-2026 02:50:13 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.0% (warning threshold 80%).",
+        "time": "12-09-2026 02:50:22 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.0% (warning threshold 80%).",
+        "time": "12-09-2026 02:50:31 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.0% (warning threshold 80%).",
+        "time": "12-09-2026 02:50:40 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.0% (warning threshold 80%).",
+        "time": "12-09-2026 02:50:47 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.0% (warning threshold 80%).",
+        "time": "12-09-2026 02:50:53 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.0% (warning threshold 80%).",
+        "time": "12-09-2026 02:51:00 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.4% (warning threshold 80%).",
+        "time": "12-09-2026 02:51:06 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:51:12 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.6% (warning threshold 80%).",
+        "time": "12-09-2026 02:51:18 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.6% (warning threshold 80%).",
+        "time": "12-09-2026 02:51:26 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.6% (warning threshold 80%).",
+        "time": "12-09-2026 02:51:33 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.6% (warning threshold 80%).",
+        "time": "12-09-2026 02:51:39 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.6% (warning threshold 80%).",
+        "time": "12-09-2026 02:51:49 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.6% (warning threshold 80%).",
+        "time": "12-09-2026 02:51:56 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.6% (warning threshold 80%).",
+        "time": "12-09-2026 02:52:03 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 83.2% (warning threshold 80%).",
+        "time": "12-09-2026 02:52:09 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:52:15 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 83.4% (warning threshold 80%).",
+        "time": "12-09-2026 02:52:21 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 83.4% (warning threshold 80%).",
+        "time": "12-09-2026 02:52:28 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 83.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:52:35 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 83.6% (warning threshold 80%).",
+        "time": "12-09-2026 02:52:41 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 83.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:52:48 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 83.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:52:55 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 83.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:53:00 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 83.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:53:06 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 83.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:53:13 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:53:19 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 83.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:53:26 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:53:32 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 83.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:53:38 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.3% (warning threshold 80%).",
+        "time": "12-09-2026 02:53:43 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:53:50 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:53:56 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:54:02 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:54:08 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:54:15 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:54:21 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:54:28 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.9% (warning threshold 80%).",
+        "time": "12-09-2026 02:54:34 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.9% (warning threshold 80%).",
+        "time": "12-09-2026 02:54:41 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.9% (warning threshold 80%).",
+        "time": "12-09-2026 02:54:47 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.9% (warning threshold 80%).",
+        "time": "12-09-2026 02:54:53 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.9% (warning threshold 80%).",
+        "time": "12-09-2026 02:54:59 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.3% (warning threshold 80%).",
+        "time": "12-09-2026 02:55:05 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.6% (warning threshold 80%).",
+        "time": "12-09-2026 02:55:12 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.6% (warning threshold 80%).",
+        "time": "12-09-2026 02:55:19 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:55:25 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:55:32 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:55:37 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:55:43 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.0% (warning threshold 80%).",
+        "time": "12-09-2026 02:55:50 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.0% (warning threshold 80%).",
+        "time": "12-09-2026 02:55:55 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.4% (warning threshold 80%).",
+        "time": "12-09-2026 02:56:01 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.9% (warning threshold 80%).",
+        "time": "12-09-2026 02:56:08 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:56:13 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.9% (warning threshold 80%).",
+        "time": "12-09-2026 02:56:20 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:56:26 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:56:33 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.9% (warning threshold 80%).",
+        "time": "12-09-2026 02:56:39 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:56:45 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:56:52 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 88.1% (warning threshold 80%).",
+        "time": "12-09-2026 02:57:00 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.4% (warning threshold 80%).",
+        "time": "12-09-2026 02:57:09 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 86.5% (warning threshold 80%).",
+        "time": "12-09-2026 02:57:14 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:57:21 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.4% (warning threshold 80%).",
+        "time": "12-09-2026 02:57:27 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:57:32 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:57:39 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:57:45 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:57:51 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:57:58 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:58:03 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:58:09 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:58:15 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:58:21 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:58:27 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:58:34 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.7% (warning threshold 80%).",
+        "time": "12-09-2026 02:58:40 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:58:45 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 87.8% (warning threshold 80%).",
+        "time": "12-09-2026 02:58:52 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "CRITICAL",
+        "title": "NVR-5 Offline",
+        "description": "NVR-5 at 192.168.1.7:84 is unreachable. All HTTP/ISAPI health checks failed.",
+        "time": "12-09-2026 03:19:49 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.0% (warning threshold 80%).",
+        "time": "12-09-2026 03:21:22 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.0% (warning threshold 80%).",
+        "time": "12-09-2026 03:21:27 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.1% (warning threshold 80%).",
+        "time": "12-09-2026 03:21:33 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.0% (warning threshold 80%).",
+        "time": "12-09-2026 03:21:41 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.0% (warning threshold 80%).",
+        "time": "12-09-2026 03:22:00 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.2% (warning threshold 80%).",
+        "time": "12-09-2026 03:22:06 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.2% (warning threshold 80%).",
+        "time": "12-09-2026 03:22:12 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.2% (warning threshold 80%).",
+        "time": "12-09-2026 03:22:18 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.3% (warning threshold 80%).",
+        "time": "12-09-2026 03:22:24 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.3% (warning threshold 80%).",
+        "time": "12-09-2026 03:22:30 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.3% (warning threshold 80%).",
+        "time": "12-09-2026 03:22:38 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.3% (warning threshold 80%).",
+        "time": "12-09-2026 03:22:46 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.3% (warning threshold 80%).",
+        "time": "12-09-2026 03:22:53 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.3% (warning threshold 80%).",
+        "time": "12-09-2026 03:23:00 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.3% (warning threshold 80%).",
+        "time": "12-09-2026 03:23:05 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.3% (warning threshold 80%).",
+        "time": "12-09-2026 03:23:11 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.3% (warning threshold 80%).",
+        "time": "12-09-2026 03:23:17 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.3% (warning threshold 80%).",
+        "time": "12-09-2026 03:23:22 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.3% (warning threshold 80%).",
+        "time": "12-09-2026 03:23:28 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.4% (warning threshold 80%).",
+        "time": "12-09-2026 03:23:34 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.4% (warning threshold 80%).",
+        "time": "12-09-2026 03:23:41 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 80.5% (warning threshold 80%).",
+        "time": "12-09-2026 03:23:47 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.1% (warning threshold 80%).",
+        "time": "12-09-2026 03:23:53 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.1% (warning threshold 80%).",
+        "time": "12-09-2026 03:23:58 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:24:05 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:24:11 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:24:17 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:24:23 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:24:30 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:24:37 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.5% (warning threshold 80%).",
+        "time": "12-09-2026 03:24:43 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.7% (warning threshold 80%).",
+        "time": "12-09-2026 03:24:49 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.3% (warning threshold 80%).",
+        "time": "12-09-2026 03:24:55 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:25:01 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.1% (warning threshold 80%).",
+        "time": "12-09-2026 03:25:06 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:25:13 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:25:18 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:25:24 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:25:30 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:25:36 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 81.7% (warning threshold 80%).",
+        "time": "12-09-2026 03:25:42 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 82.7% (warning threshold 80%).",
+        "time": "12-09-2026 03:25:48 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:25:54 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.7% (warning threshold 80%).",
+        "time": "12-09-2026 03:26:00 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.1% (warning threshold 80%).",
+        "time": "12-09-2026 03:26:06 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.1% (warning threshold 80%).",
+        "time": "12-09-2026 03:26:12 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.1% (warning threshold 80%).",
+        "time": "12-09-2026 03:26:18 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.1% (warning threshold 80%).",
+        "time": "12-09-2026 03:26:23 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.1% (warning threshold 80%).",
+        "time": "12-09-2026 03:26:29 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.1% (warning threshold 80%).",
+        "time": "12-09-2026 03:26:35 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.1% (warning threshold 80%).",
+        "time": "12-09-2026 03:26:40 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.1% (warning threshold 80%).",
+        "time": "12-09-2026 03:26:47 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 85.1% (warning threshold 80%).",
+        "time": "12-09-2026 03:26:52 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 83.8% (warning threshold 80%).",
+        "time": "12-09-2026 03:26:58 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.5% (warning threshold 80%).",
+        "time": "12-09-2026 03:27:04 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.9% (warning threshold 80%).",
+        "time": "12-09-2026 03:27:11 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.4% (warning threshold 80%).",
+        "time": "12-09-2026 03:27:17 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.4% (warning threshold 80%).",
+        "time": "12-09-2026 03:27:23 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:27:28 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:27:35 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:27:41 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:27:48 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:27:54 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:28:00 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:28:06 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:28:12 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:28:18 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.6% (warning threshold 80%).",
+        "time": "12-09-2026 03:28:24 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.7% (warning threshold 80%).",
+        "time": "12-09-2026 03:28:30 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.7% (warning threshold 80%).",
+        "time": "12-09-2026 03:28:36 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.9% (warning threshold 80%).",
+        "time": "12-09-2026 03:28:42 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.7% (warning threshold 80%).",
+        "time": "12-09-2026 03:28:48 PM"
+    },
+    {
+        "type": "NVR Health",
+        "severity": "WARNING",
+        "title": "NVR-2 Memory Warning",
+        "description": "Memory usage is 84.8% (warning threshold 80%).",
+        "time": "12-09-2026 03:28:54 PM"
+    }
+]

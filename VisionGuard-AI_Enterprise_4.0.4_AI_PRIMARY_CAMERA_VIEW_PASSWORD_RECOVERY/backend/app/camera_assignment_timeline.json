@@ -1,0 +1,2956 @@
+{
+  "name:in    r5": [
+    {
+      "camera": "IN    R5",
+      "identity": "name:in    r5",
+      "nvr": "NVR-3",
+      "channel": 1,
+      "ip": "192.168.1.54",
+      "valid_from": "2026-08-18T15:16:24",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2c lobby": [
+    {
+      "camera": "B2C LOBBY",
+      "identity": "name:b2c lobby",
+      "nvr": "NVR-4",
+      "channel": 1,
+      "ip": "192.168.1.75",
+      "valid_from": "2026-08-18T15:16:24",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   k3": [
+    {
+      "camera": "IN   K3",
+      "identity": "name:in   k3",
+      "nvr": "NVR-8",
+      "channel": 1,
+      "ip": "192.168.1.153",
+      "valid_from": "2026-08-18T15:16:24",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:srn 1": [
+    {
+      "camera": "SRN 1",
+      "identity": "name:srn 1",
+      "nvr": "NVR-5",
+      "channel": 1,
+      "ip": "192.168.1.94",
+      "valid_from": "2026-08-18T15:16:24",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  h3": [
+    {
+      "camera": "IN  H3",
+      "identity": "name:in  h3",
+      "nvr": "NVR-9",
+      "channel": 1,
+      "ip": "192.168.1.168",
+      "valid_from": "2026-08-18T15:16:24",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 1": [
+    {
+      "camera": "QC Table 1",
+      "identity": "name:qc table 1",
+      "nvr": "NVR-1",
+      "channel": 1,
+      "ip": "192.168.1.62",
+      "valid_from": "2026-08-18T15:16:24",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table  5": [
+    {
+      "camera": "QC TABLE  5",
+      "identity": "name:qc table  5",
+      "nvr": "NVR-2",
+      "channel": 1,
+      "ip": "192.168.1.78",
+      "valid_from": "2026-08-18T15:16:24",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  b1": [
+    {
+      "camera": "IN  B1",
+      "identity": "name:in  b1",
+      "nvr": "NVR-6",
+      "channel": 1,
+      "ip": "192.168.1.123",
+      "valid_from": "2026-08-18T15:16:24",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:lm 3 pl": [
+    {
+      "camera": "LM 3 PL",
+      "identity": "name:lm 3 pl",
+      "nvr": "NVR-7",
+      "channel": 1,
+      "ip": "192.168.1.138",
+      "valid_from": "2026-08-18T15:16:24",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.55": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.55",
+      "nvr": "NVR-3",
+      "channel": 2,
+      "ip": "192.168.1.55",
+      "valid_from": "2026-08-18T15:16:24",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qr generate area": [
+    {
+      "camera": "QR GENERATE AREA",
+      "identity": "name:qr generate area",
+      "nvr": "NVR-4",
+      "channel": 2,
+      "ip": "192.168.1.32",
+      "valid_from": "2026-08-18T15:16:24",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   j2": [
+    {
+      "camera": "IN   J2",
+      "identity": "name:in   j2",
+      "nvr": "NVR-8",
+      "channel": 2,
+      "ip": "192.168.1.154",
+      "valid_from": "2026-08-18T15:16:24",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:srn   2": [
+    {
+      "camera": "SRN   2",
+      "identity": "name:srn   2",
+      "nvr": "NVR-5",
+      "channel": 2,
+      "ip": "192.168.1.95",
+      "valid_from": "2026-08-18T15:16:24",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   g2": [
+    {
+      "camera": "IN   G2",
+      "identity": "name:in   g2",
+      "nvr": "NVR-9",
+      "channel": 2,
+      "ip": "192.168.1.169",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:processing 1": [
+    {
+      "camera": "PROCESSING 1",
+      "identity": "name:processing 1",
+      "nvr": "NVR-1",
+      "channel": 2,
+      "ip": "192.168.1.63",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 13": [
+    {
+      "camera": "QC TABLE 13",
+      "identity": "name:qc table 13",
+      "nvr": "NVR-2",
+      "channel": 2,
+      "ip": "192.168.1.79",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:bulk gallery": [
+    {
+      "camera": "BULK GALLERY",
+      "identity": "name:bulk gallery",
+      "nvr": "NVR-3",
+      "channel": 3,
+      "ip": "192.168.1.56",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:prd area": [
+    {
+      "camera": "PRD AREA",
+      "identity": "name:prd area",
+      "nvr": "NVR-4",
+      "channel": 3,
+      "ip": "192.168.1.33",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:dock yard 1": [
+    {
+      "camera": "DOCK YARD 1",
+      "identity": "name:dock yard 1",
+      "nvr": "NVR-5",
+      "channel": 3,
+      "ip": "192.168.1.96",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   g1": [
+    {
+      "camera": "IN   G1",
+      "identity": "name:in   g1",
+      "nvr": "NVR-9",
+      "channel": 3,
+      "ip": "192.168.1.170",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:3rd lot": [
+    {
+      "camera": "3RD LOT",
+      "identity": "name:3rd lot",
+      "nvr": "NVR-7",
+      "channel": 2,
+      "ip": "192.168.1.139",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   i1": [
+    {
+      "camera": "IN   I1",
+      "identity": "name:in   i1",
+      "nvr": "NVR-8",
+      "channel": 3,
+      "ip": "192.168.1.155",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.124": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.124",
+      "nvr": "NVR-6",
+      "channel": 2,
+      "ip": "192.168.1.124",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 7": [
+    {
+      "camera": "QC TABLE 7",
+      "identity": "name:qc table 7",
+      "nvr": "NVR-1",
+      "channel": 3,
+      "ip": "192.168.1.59",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   q1": [
+    {
+      "camera": "IN   Q1",
+      "identity": "name:in   q1",
+      "nvr": "NVR-3",
+      "channel": 4,
+      "ip": "192.168.1.57",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qa area": [
+    {
+      "camera": "QA AREA",
+      "identity": "name:qa area",
+      "nvr": "NVR-5",
+      "channel": 4,
+      "ip": "192.168.1.97",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   e3": [
+    {
+      "camera": "IN   E3",
+      "identity": "name:in   e3",
+      "nvr": "NVR-9",
+      "channel": 4,
+      "ip": "192.168.1.171",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 2": [
+    {
+      "camera": "QC TABLE 2",
+      "identity": "name:qc table 2",
+      "nvr": "NVR-2",
+      "channel": 3,
+      "ip": "192.168.1.80",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:lm cod front": [
+    {
+      "camera": "LM COD FRONT",
+      "identity": "name:lm cod front",
+      "nvr": "NVR-7",
+      "channel": 3,
+      "ip": "192.168.1.140",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:po office": [
+    {
+      "camera": "PO OFFICE",
+      "identity": "name:po office",
+      "nvr": "NVR-4",
+      "channel": 4,
+      "ip": "192.168.1.34",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    j3": [
+    {
+      "camera": "IN    J3",
+      "identity": "name:in    j3",
+      "nvr": "NVR-8",
+      "channel": 4,
+      "ip": "192.168.1.156",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:nvr 10 cam 121   qc&packing": [
+    {
+      "camera": "NVR 10 Cam 121   QC&PACKING",
+      "identity": "name:nvr 10 cam 121   qc&packing",
+      "nvr": "NVR-5",
+      "channel": 5,
+      "ip": "192.168.1.101",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:ipcamera 04": [
+    {
+      "camera": "IPCamera 04",
+      "identity": "name:ipcamera 04",
+      "nvr": "NVR-3",
+      "channel": 5,
+      "ip": "192.168.1.58",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  e1": [
+    {
+      "camera": "IN  E1",
+      "identity": "name:in  e1",
+      "nvr": "NVR-9",
+      "channel": 5,
+      "ip": "192.168.1.172",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.65": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.65",
+      "nvr": "NVR-1",
+      "channel": 4,
+      "ip": "192.168.1.65",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  a1": [
+    {
+      "camera": "IN  A1",
+      "identity": "name:in  a1",
+      "nvr": "NVR-6",
+      "channel": 3,
+      "ip": "192.168.1.125",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:lm rack": [
+    {
+      "camera": "LM RACK",
+      "identity": "name:lm rack",
+      "nvr": "NVR-7",
+      "channel": 4,
+      "ip": "192.168.1.141",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:dock yard 3": [
+    {
+      "camera": "DOCK YARD 3",
+      "identity": "name:dock yard 3",
+      "nvr": "NVR-4",
+      "channel": 5,
+      "ip": "192.168.1.35",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 14": [
+    {
+      "camera": "QC TABLE 14",
+      "identity": "name:qc table 14",
+      "nvr": "NVR-2",
+      "channel": 4,
+      "ip": "192.168.1.81",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   j4": [
+    {
+      "camera": "IN   J4",
+      "identity": "name:in   j4",
+      "nvr": "NVR-8",
+      "channel": 5,
+      "ip": "192.168.1.157",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:main  entry gate": [
+    {
+      "camera": "MAIN  ENTRY GATE",
+      "identity": "name:main  entry gate",
+      "nvr": "NVR-5",
+      "channel": 6,
+      "ip": "192.168.1.99",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:amazon table": [
+    {
+      "camera": "AMAZON TABLE",
+      "identity": "name:amazon table",
+      "nvr": "NVR-3",
+      "channel": 6,
+      "ip": "192.168.1.64",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   g3": [
+    {
+      "camera": "IN   G3",
+      "identity": "name:in   g3",
+      "nvr": "NVR-9",
+      "channel": 6,
+      "ip": "192.168.1.173",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b gallery": [
+    {
+      "camera": "B2B GALLERY",
+      "identity": "name:b2b gallery",
+      "nvr": "NVR-1",
+      "channel": 5,
+      "ip": "192.168.1.66",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  d2": [
+    {
+      "camera": "IN  D2",
+      "identity": "name:in  d2",
+      "nvr": "NVR-6",
+      "channel": 4,
+      "ip": "192.168.1.126",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:lm outdoor": [
+    {
+      "camera": "LM OUTDOOR",
+      "identity": "name:lm outdoor",
+      "nvr": "NVR-7",
+      "channel": 5,
+      "ip": "192.168.1.142",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:pv area": [
+    {
+      "camera": "PV AREA",
+      "identity": "name:pv area",
+      "nvr": "NVR-4",
+      "channel": 6,
+      "ip": "192.168.1.36",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   i 2": [
+    {
+      "camera": "IN   I 2",
+      "identity": "name:in   i 2",
+      "nvr": "NVR-8",
+      "channel": 6,
+      "ip": "192.168.1.158",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:dock yard 2": [
+    {
+      "camera": "DOCK YARD 2",
+      "identity": "name:dock yard 2",
+      "nvr": "NVR-5",
+      "channel": 7,
+      "ip": "192.168.1.100",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    v1": [
+    {
+      "camera": "IN    V1",
+      "identity": "name:in    v1",
+      "nvr": "NVR-3",
+      "channel": 7,
+      "ip": "192.168.1.60",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  f4": [
+    {
+      "camera": "IN  F4",
+      "identity": "name:in  f4",
+      "nvr": "NVR-9",
+      "channel": 7,
+      "ip": "192.168.1.174",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:processng 2": [
+    {
+      "camera": "PROCESSNG 2",
+      "identity": "name:processng 2",
+      "nvr": "NVR-1",
+      "channel": 6,
+      "ip": "192.168.1.67",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:out bond area": [
+    {
+      "camera": "OUT BOND AREA",
+      "identity": "name:out bond area",
+      "nvr": "NVR-6",
+      "channel": 5,
+      "ip": "192.168.1.127",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:lm entry": [
+    {
+      "camera": "LM ENTRY",
+      "identity": "name:lm entry",
+      "nvr": "NVR-7",
+      "channel": 6,
+      "ip": "192.168.1.143",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:cold room": [
+    {
+      "camera": "COLD ROOM",
+      "identity": "name:cold room",
+      "nvr": "NVR-4",
+      "channel": 8,
+      "ip": "192.168.1.37",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 4": [
+    {
+      "camera": "QC TABLE 4",
+      "identity": "name:qc table 4",
+      "nvr": "NVR-2",
+      "channel": 6,
+      "ip": "192.168.1.83",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    h1": [
+    {
+      "camera": "IN    H1",
+      "identity": "name:in    h1",
+      "nvr": "NVR-8",
+      "channel": 7,
+      "ip": "192.168.1.159",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:inbound entry gate": [
+    {
+      "camera": "INBOUND ENTRY GATE",
+      "identity": "name:inbound entry gate",
+      "nvr": "NVR-5",
+      "channel": 8,
+      "ip": "192.168.1.98",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:pr front gate": [
+    {
+      "camera": "PR FRONT GATE",
+      "identity": "name:pr front gate",
+      "nvr": "NVR-3",
+      "channel": 8,
+      "ip": "192.168.1.61",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   h2": [
+    {
+      "camera": "IN   H2",
+      "identity": "name:in   h2",
+      "nvr": "NVR-9",
+      "channel": 8,
+      "ip": "192.168.1.175",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:rto": [
+    {
+      "camera": "RTO",
+      "identity": "name:rto",
+      "nvr": "NVR-1",
+      "channel": 7,
+      "ip": "192.168.1.68",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  b2": [
+    {
+      "camera": "IN  B2",
+      "identity": "name:in  b2",
+      "nvr": "NVR-6",
+      "channel": 6,
+      "ip": "192.168.1.128",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:shiping scan": [
+    {
+      "camera": "SHIPING SCAN",
+      "identity": "name:shiping scan",
+      "nvr": "NVR-7",
+      "channel": 7,
+      "ip": "192.168.1.144",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:bar code": [
+    {
+      "camera": "BAR CODE",
+      "identity": "name:bar code",
+      "nvr": "NVR-4",
+      "channel": 9,
+      "ip": "192.168.1.38",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qctable 9": [
+    {
+      "camera": "QCTABLE 9",
+      "identity": "name:qctable 9",
+      "nvr": "NVR-2",
+      "channel": 7,
+      "ip": "192.168.1.84",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   i 3": [
+    {
+      "camera": "IN   I 3",
+      "identity": "name:in   i 3",
+      "nvr": "NVR-8",
+      "channel": 8,
+      "ip": "192.168.1.160",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.102": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.102",
+      "nvr": "NVR-5",
+      "channel": 9,
+      "ip": "192.168.1.102",
+      "valid_from": "2026-08-18T15:16:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   g4": [
+    {
+      "camera": "IN   G4",
+      "identity": "name:in   g4",
+      "nvr": "NVR-9",
+      "channel": 9,
+      "ip": "192.168.1.176",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 5": [
+    {
+      "camera": "QC TABLE 5",
+      "identity": "name:qc table 5",
+      "nvr": "NVR-1",
+      "channel": 8,
+      "ip": "192.168.1.69",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:nvr3 cam 17   inventory": [
+    {
+      "camera": "NVR3 Cam 17   INVENTORY",
+      "identity": "name:nvr3 cam 17   inventory",
+      "nvr": "NVR-6",
+      "channel": 7,
+      "ip": "192.168.1.129",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:rto hand over": [
+    {
+      "camera": "RTO HAND OVER",
+      "identity": "name:rto hand over",
+      "nvr": "NVR-7",
+      "channel": 8,
+      "ip": "192.168.1.145",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.39": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.39",
+      "nvr": "NVR-4",
+      "channel": 11,
+      "ip": "192.168.1.39",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 3": [
+    {
+      "camera": "QC TABLE 3",
+      "identity": "name:qc table 3",
+      "nvr": "NVR-2",
+      "channel": 8,
+      "ip": "192.168.1.85",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    k4": [
+    {
+      "camera": "IN    K4",
+      "identity": "name:in    k4",
+      "nvr": "NVR-8",
+      "channel": 9,
+      "ip": "192.168.1.161",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:server room": [
+    {
+      "camera": "SERVER ROOM",
+      "identity": "name:server room",
+      "nvr": "NVR-5",
+      "channel": 10,
+      "ip": "192.168.1.103",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  f3": [
+    {
+      "camera": "IN  F3",
+      "identity": "name:in  f3",
+      "nvr": "NVR-9",
+      "channel": 10,
+      "ip": "192.168.1.177",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table  20": [
+    {
+      "camera": "QC TABLE  20",
+      "identity": "name:qc table  20",
+      "nvr": "NVR-1",
+      "channel": 9,
+      "ip": "192.168.1.70",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  c2": [
+    {
+      "camera": "IN  C2",
+      "identity": "name:in  c2",
+      "nvr": "NVR-6",
+      "channel": 8,
+      "ip": "192.168.1.130",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:cod room": [
+    {
+      "camera": "COD ROOM",
+      "identity": "name:cod room",
+      "nvr": "NVR-7",
+      "channel": 9,
+      "ip": "192.168.1.146",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    v3": [
+    {
+      "camera": "IN    V3",
+      "identity": "name:in    v3",
+      "nvr": "NVR-4",
+      "channel": 12,
+      "ip": "192.168.1.40",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 17": [
+    {
+      "camera": "QC TABLE 17",
+      "identity": "name:qc table 17",
+      "nvr": "NVR-2",
+      "channel": 9,
+      "ip": "192.168.1.86",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    k2": [
+    {
+      "camera": "IN    K2",
+      "identity": "name:in    k2",
+      "nvr": "NVR-8",
+      "channel": 10,
+      "ip": "192.168.1.162",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:outbound 2": [
+    {
+      "camera": "OUTBOUND 2",
+      "identity": "name:outbound 2",
+      "nvr": "NVR-5",
+      "channel": 11,
+      "ip": "192.168.1.104",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  d1": [
+    {
+      "camera": "IN  D1",
+      "identity": "name:in  d1",
+      "nvr": "NVR-9",
+      "channel": 11,
+      "ip": "192.168.1.178",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.71": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.71",
+      "nvr": "NVR-1",
+      "channel": 10,
+      "ip": "192.168.1.71",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   d4": [
+    {
+      "camera": "IN   D4",
+      "identity": "name:in   d4",
+      "nvr": "NVR-6",
+      "channel": 9,
+      "ip": "192.168.1.132",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:lmqc 1": [
+    {
+      "camera": "LMQC 1",
+      "identity": "name:lmqc 1",
+      "nvr": "NVR-7",
+      "channel": 11,
+      "ip": "192.168.1.147",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.41": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.41",
+      "nvr": "NVR-4",
+      "channel": 13,
+      "ip": "192.168.1.41",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 8": [
+    {
+      "camera": "QC TABLE 8",
+      "identity": "name:qc table 8",
+      "nvr": "NVR-2",
+      "channel": 10,
+      "ip": "192.168.1.87",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   l3": [
+    {
+      "camera": "IN   L3",
+      "identity": "name:in   l3",
+      "nvr": "NVR-8",
+      "channel": 11,
+      "ip": "192.168.1.163",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:srn   4": [
+    {
+      "camera": "SRN   4",
+      "identity": "name:srn   4",
+      "nvr": "NVR-5",
+      "channel": 12,
+      "ip": "192.168.1.105",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   f2": [
+    {
+      "camera": "IN   F2",
+      "identity": "name:in   f2",
+      "nvr": "NVR-9",
+      "channel": 12,
+      "ip": "192.168.1.179",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:pack 2": [
+    {
+      "camera": "PACK 2",
+      "identity": "name:pack 2",
+      "nvr": "NVR-1",
+      "channel": 11,
+      "ip": "192.168.1.72",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   d3": [
+    {
+      "camera": "IN   D3",
+      "identity": "name:in   d3",
+      "nvr": "NVR-6",
+      "channel": 10,
+      "ip": "192.168.1.131",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:rto scan wh": [
+    {
+      "camera": "RTO SCAN WH",
+      "identity": "name:rto scan wh",
+      "nvr": "NVR-7",
+      "channel": 12,
+      "ip": "192.168.1.148",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.42": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.42",
+      "nvr": "NVR-4",
+      "channel": 14,
+      "ip": "192.168.1.42",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:amazon table 15": [
+    {
+      "camera": "AMAZON TABLE 15",
+      "identity": "name:amazon table 15",
+      "nvr": "NVR-2",
+      "channel": 11,
+      "ip": "192.168.1.88",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   i 4": [
+    {
+      "camera": "IN   I 4",
+      "identity": "name:in   i 4",
+      "nvr": "NVR-8",
+      "channel": 12,
+      "ip": "192.168.1.164",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:outbound gallery": [
+    {
+      "camera": "OUTBOUND GALLERY",
+      "identity": "name:outbound gallery",
+      "nvr": "NVR-5",
+      "channel": 13,
+      "ip": "192.168.1.106",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  e2": [
+    {
+      "camera": "IN  E2",
+      "identity": "name:in  e2",
+      "nvr": "NVR-9",
+      "channel": 13,
+      "ip": "192.168.1.180",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:dispatch": [
+    {
+      "camera": "DISPATCH",
+      "identity": "name:dispatch",
+      "nvr": "NVR-1",
+      "channel": 12,
+      "ip": "192.168.1.73",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  c3": [
+    {
+      "camera": "IN  C3",
+      "identity": "name:in  c3",
+      "nvr": "NVR-6",
+      "channel": 11,
+      "ip": "192.168.1.133",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:cash recive": [
+    {
+      "camera": "CASH RECIVE",
+      "identity": "name:cash recive",
+      "nvr": "NVR-7",
+      "channel": 13,
+      "ip": "192.168.1.149",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.43": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.43",
+      "nvr": "NVR-4",
+      "channel": 15,
+      "ip": "192.168.1.43",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 11": [
+    {
+      "camera": "QC TABLE 11",
+      "identity": "name:qc table 11",
+      "nvr": "NVR-2",
+      "channel": 12,
+      "ip": "192.168.1.89",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   h4": [
+    {
+      "camera": "IN   H4",
+      "identity": "name:in   h4",
+      "nvr": "NVR-8",
+      "channel": 13,
+      "ip": "192.168.1.165",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:security desk 1": [
+    {
+      "camera": "SECURITY DESK 1",
+      "identity": "name:security desk 1",
+      "nvr": "NVR-5",
+      "channel": 14,
+      "ip": "192.168.1.107",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   f1": [
+    {
+      "camera": "IN   F1",
+      "identity": "name:in   f1",
+      "nvr": "NVR-9",
+      "channel": 14,
+      "ip": "192.168.1.181",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 9": [
+    {
+      "camera": "QC TABLE 9",
+      "identity": "name:qc table 9",
+      "nvr": "NVR-1",
+      "channel": 13,
+      "ip": "192.168.1.74",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  b3": [
+    {
+      "camera": "IN  B3",
+      "identity": "name:in  b3",
+      "nvr": "NVR-6",
+      "channel": 12,
+      "ip": "192.168.1.134",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:lm area": [
+    {
+      "camera": "LM AREA",
+      "identity": "name:lm area",
+      "nvr": "NVR-7",
+      "channel": 14,
+      "ip": "192.168.1.150",
+      "valid_from": "2026-08-18T15:16:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    x1": [
+    {
+      "camera": "IN    X1",
+      "identity": "name:in    x1",
+      "nvr": "NVR-4",
+      "channel": 16,
+      "ip": "192.168.1.44",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 10": [
+    {
+      "camera": "QC TABLE 10",
+      "identity": "name:qc table 10",
+      "nvr": "NVR-2",
+      "channel": 13,
+      "ip": "192.168.1.90",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   j1": [
+    {
+      "camera": "IN   J1",
+      "identity": "name:in   j1",
+      "nvr": "NVR-8",
+      "channel": 14,
+      "ip": "192.168.1.166",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:srn   7": [
+    {
+      "camera": "SRN   7",
+      "identity": "name:srn   7",
+      "nvr": "NVR-5",
+      "channel": 15,
+      "ip": "192.168.1.108",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   e4": [
+    {
+      "camera": "IN   E4",
+      "identity": "name:in   e4",
+      "nvr": "NVR-9",
+      "channel": 15,
+      "ip": "192.168.1.182",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.135": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.135",
+      "nvr": "NVR-6",
+      "channel": 13,
+      "ip": "192.168.1.135",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:lm": [
+    {
+      "camera": "LM",
+      "identity": "name:lm",
+      "nvr": "NVR-7",
+      "channel": 15,
+      "ip": "192.168.1.151",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    q5": [
+    {
+      "camera": "IN    Q5",
+      "identity": "name:in    q5",
+      "nvr": "NVR-4",
+      "channel": 17,
+      "ip": "192.168.1.45",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 12": [
+    {
+      "camera": "QC TABLE 12",
+      "identity": "name:qc table 12",
+      "nvr": "NVR-2",
+      "channel": 14,
+      "ip": "192.168.1.91",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   k1": [
+    {
+      "camera": "IN   K1",
+      "identity": "name:in   k1",
+      "nvr": "NVR-8",
+      "channel": 15,
+      "ip": "192.168.1.167",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:logistick": [
+    {
+      "camera": "LOGISTICK",
+      "identity": "name:logistick",
+      "nvr": "NVR-5",
+      "channel": 16,
+      "ip": "192.168.1.109",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  a4": [
+    {
+      "camera": "IN  A4",
+      "identity": "name:in  a4",
+      "nvr": "NVR-6",
+      "channel": 14,
+      "ip": "192.168.1.136",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   u1": [
+    {
+      "camera": "IN   U1",
+      "identity": "name:in   u1",
+      "nvr": "NVR-4",
+      "channel": 18,
+      "ip": "192.168.1.46",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:srn  5": [
+    {
+      "camera": "SRN  5",
+      "identity": "name:srn  5",
+      "nvr": "NVR-5",
+      "channel": 17,
+      "ip": "192.168.1.110",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.77": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.77",
+      "nvr": "NVR-1",
+      "channel": 16,
+      "ip": "192.168.1.77",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  c1": [
+    {
+      "camera": "IN  C1",
+      "identity": "name:in  c1",
+      "nvr": "NVR-6",
+      "channel": 15,
+      "ip": "192.168.1.137",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.47": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.47",
+      "nvr": "NVR-4",
+      "channel": 19,
+      "ip": "192.168.1.47",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table 6": [
+    {
+      "camera": "QC TABLE 6",
+      "identity": "name:qc table 6",
+      "nvr": "NVR-2",
+      "channel": 16,
+      "ip": "192.168.1.93",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:srn  6": [
+    {
+      "camera": "SRN  6",
+      "identity": "name:srn  6",
+      "nvr": "NVR-5",
+      "channel": 18,
+      "ip": "192.168.1.111",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.48": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.48",
+      "nvr": "NVR-4",
+      "channel": 21,
+      "ip": "192.168.1.48",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:caffeteria 1": [
+    {
+      "camera": "CAFFETERIA 1",
+      "identity": "name:caffeteria 1",
+      "nvr": "NVR-5",
+      "channel": 19,
+      "ip": "192.168.1.112",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    v4": [
+    {
+      "camera": "IN    V4",
+      "identity": "name:in    v4",
+      "nvr": "NVR-4",
+      "channel": 22,
+      "ip": "192.168.1.49",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:inbound lobby": [
+    {
+      "camera": "INBOUND LOBBY",
+      "identity": "name:inbound lobby",
+      "nvr": "NVR-5",
+      "channel": 20,
+      "ip": "192.168.1.113",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    w1": [
+    {
+      "camera": "IN    W1",
+      "identity": "name:in    w1",
+      "nvr": "NVR-4",
+      "channel": 23,
+      "ip": "192.168.1.50",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   r8": [
+    {
+      "camera": "IN   R8",
+      "identity": "name:in   r8",
+      "nvr": "NVR-4",
+      "channel": 24,
+      "ip": "192.168.1.51",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:srn": [
+    {
+      "camera": "SRN",
+      "identity": "name:srn",
+      "nvr": "NVR-5",
+      "channel": 22,
+      "ip": "192.168.1.115",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   o8": [
+    {
+      "camera": "IN   O8",
+      "identity": "name:in   o8",
+      "nvr": "NVR-4",
+      "channel": 25,
+      "ip": "192.168.1.52",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:pack 1": [
+    {
+      "camera": "PACK 1",
+      "identity": "name:pack 1",
+      "nvr": "NVR-5",
+      "channel": 23,
+      "ip": "192.168.1.122",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:gallery  1": [
+    {
+      "camera": "GALLERY  1",
+      "identity": "name:gallery  1",
+      "nvr": "NVR-5",
+      "channel": 24,
+      "ip": "192.168.1.116",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:outdoor  1": [
+    {
+      "camera": "OUTDOOR  1",
+      "identity": "name:outdoor  1",
+      "nvr": "NVR-5",
+      "channel": 25,
+      "ip": "192.168.1.117",
+      "valid_from": "2026-08-18T15:16:27",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:security desk 2": [
+    {
+      "camera": "SECURITY DESK 2",
+      "identity": "name:security desk 2",
+      "nvr": "NVR-5",
+      "channel": 27,
+      "ip": "192.168.1.119",
+      "valid_from": "2026-08-18T15:16:28",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:caffeteria  2": [
+    {
+      "camera": "CAFFETERIA  2",
+      "identity": "name:caffeteria  2",
+      "nvr": "NVR-5",
+      "channel": 28,
+      "ip": "192.168.1.120",
+      "valid_from": "2026-08-18T15:16:28",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:srn   8": [
+    {
+      "camera": "SRN   8",
+      "identity": "name:srn   8",
+      "nvr": "NVR-5",
+      "channel": 29,
+      "ip": "192.168.1.121",
+      "valid_from": "2026-08-18T15:16:28",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b table 1": [
+    {
+      "camera": "B2B Table 1",
+      "identity": "name:b2b table 1",
+      "nvr": "NVR-1",
+      "channel": 1,
+      "ip": "192.168.1.62",
+      "valid_from": "2026-08-18T16:41:07",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b qc table 1": [
+    {
+      "camera": "B2B QC TABLE 1",
+      "identity": "name:b2b qc table 1",
+      "nvr": "NVR-1",
+      "channel": 1,
+      "ip": "192.168.1.62",
+      "valid_from": "2026-08-18T16:41:56",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b qc table 2": [
+    {
+      "camera": "B2B QC TABLE 2",
+      "identity": "name:b2b qc table 2",
+      "nvr": "NVR-1",
+      "channel": 15,
+      "ip": "192.168.1.76",
+      "valid_from": "2026-08-18T16:43:42",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b qc table 3": [
+    {
+      "camera": "B2B QC TABLE 3",
+      "identity": "name:b2b qc table 3",
+      "nvr": "NVR-1",
+      "channel": 16,
+      "ip": "192.168.1.77",
+      "valid_from": "2026-08-18T16:45:04",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b qc table 4": [
+    {
+      "camera": "B2B QC TABLE 4",
+      "identity": "name:b2b qc table 4",
+      "nvr": "NVR-1",
+      "channel": 10,
+      "ip": "192.168.1.71",
+      "valid_from": "2026-08-18T16:45:50",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b qc table 5": [
+    {
+      "camera": "B2B QC TABLE 5",
+      "identity": "name:b2b qc table 5",
+      "nvr": "NVR-1",
+      "channel": 8,
+      "ip": "192.168.1.69",
+      "valid_from": "2026-08-18T16:46:56",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b qc 1": [
+    {
+      "camera": "B2B QC 1",
+      "identity": "name:b2b qc 1",
+      "nvr": "NVR-1",
+      "channel": 1,
+      "ip": "192.168.1.62",
+      "valid_from": "2026-08-18T16:47:59",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b qc 2": [
+    {
+      "camera": "B2B QC 2",
+      "identity": "name:b2b qc 2",
+      "nvr": "NVR-1",
+      "channel": 15,
+      "ip": "192.168.1.76",
+      "valid_from": "2026-08-18T16:48:34",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b qc 3": [
+    {
+      "camera": "B2B QC 3",
+      "identity": "name:b2b qc 3",
+      "nvr": "NVR-1",
+      "channel": 16,
+      "ip": "192.168.1.77",
+      "valid_from": "2026-08-18T16:48:50",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b qc 5": [
+    {
+      "camera": "B2B QC 5",
+      "identity": "name:b2b qc 5",
+      "nvr": "NVR-1",
+      "channel": 8,
+      "ip": "192.168.1.69",
+      "valid_from": "2026-08-18T16:49:35",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b qc 4": [
+    {
+      "camera": "B2B QC 4",
+      "identity": "name:b2b qc 4",
+      "nvr": "NVR-1",
+      "channel": 10,
+      "ip": "192.168.1.71",
+      "valid_from": "2026-08-18T16:50:04",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b qc 6": [
+    {
+      "camera": "B2B QC 6",
+      "identity": "name:b2b qc 6",
+      "nvr": "NVR-1",
+      "channel": 6,
+      "ip": "192.168.1.67",
+      "valid_from": "2026-08-18T16:51:06",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b qc 7": [
+    {
+      "camera": "B2B QC 7",
+      "identity": "name:b2b qc 7",
+      "nvr": "NVR-1",
+      "channel": 3,
+      "ip": "192.168.1.59",
+      "valid_from": "2026-08-18T16:52:56",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b qc 8": [
+    {
+      "camera": "B2B QC 8",
+      "identity": "name:b2b qc 8",
+      "nvr": "NVR-1",
+      "channel": 14,
+      "ip": "192.168.1.31",
+      "valid_from": "2026-08-18T16:53:46",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b qc 9": [
+    {
+      "camera": "B2B QC 9",
+      "identity": "name:b2b qc 9",
+      "nvr": "NVR-1",
+      "channel": 13,
+      "ip": "192.168.1.74",
+      "valid_from": "2026-08-18T16:54:17",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:processing 2": [
+    {
+      "camera": "PROCESSING 2",
+      "identity": "name:processing 2",
+      "nvr": "NVR-1",
+      "channel": 7,
+      "ip": "192.168.1.68",
+      "valid_from": "2026-08-18T16:55:45",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2c station 17": [
+    {
+      "camera": "B2C Station 17",
+      "identity": "name:b2c station 17",
+      "nvr": "NVR-1",
+      "channel": 4,
+      "ip": "192.168.1.65",
+      "valid_from": "2026-08-18T16:57:45",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:qc table  18": [
+    {
+      "camera": "QC TABLE  18",
+      "identity": "name:qc table  18",
+      "nvr": "NVR-1",
+      "channel": 9,
+      "ip": "192.168.1.70",
+      "valid_from": "2026-08-18T17:01:01",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:dispatch 1": [
+    {
+      "camera": "DISPATCH 1",
+      "identity": "name:dispatch 1",
+      "nvr": "NVR-1",
+      "channel": 12,
+      "ip": "192.168.1.73",
+      "valid_from": "2026-08-18T17:02:05",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:ipcamera 09": [
+    {
+      "camera": "IPCamera 09",
+      "identity": "name:ipcamera 09",
+      "nvr": "NVR-1",
+      "channel": 9,
+      "ip": "192.168.1.122",
+      "valid_from": "2026-08-18T17:08:41",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b pro 1": [
+    {
+      "camera": "B2B PRO 1",
+      "identity": "name:b2b pro 1",
+      "nvr": "NVR-1",
+      "channel": 2,
+      "ip": "192.168.1.63",
+      "valid_from": "2026-08-18T18:51:25",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b pack 1": [
+    {
+      "camera": "B2B PACK 1",
+      "identity": "name:b2b pack 1",
+      "nvr": "NVR-1",
+      "channel": 9,
+      "ip": "192.168.1.122",
+      "valid_from": "2026-08-18T18:51:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2b pack 2": [
+    {
+      "camera": "B2B PACK 2",
+      "identity": "name:b2b pack 2",
+      "nvr": "NVR-1",
+      "channel": 11,
+      "ip": "192.168.1.72",
+      "valid_from": "2026-08-18T18:51:26",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:b2c lobby 2": [
+    {
+      "camera": "B2C LOBBY 2",
+      "identity": "name:b2c lobby 2",
+      "nvr": "NVR-4",
+      "channel": 1,
+      "ip": "192.168.1.75",
+      "valid_from": "2026-09-11T18:57:51",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   p4": [
+    {
+      "camera": "IN   P4",
+      "identity": "name:in   p4",
+      "nvr": "NVR-11",
+      "channel": 1,
+      "ip": "192.168.1.198",
+      "valid_from": "2026-09-12T12:50:12",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    l1": [
+    {
+      "camera": "IN    L1",
+      "identity": "name:in    l1",
+      "nvr": "NVR-10",
+      "channel": 1,
+      "ip": "192.168.1.183",
+      "valid_from": "2026-09-12T12:50:12",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.199": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.199",
+      "nvr": "NVR-11",
+      "channel": 2,
+      "ip": "192.168.1.199",
+      "valid_from": "2026-09-12T12:50:12",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    n4": [
+    {
+      "camera": "IN    N4",
+      "identity": "name:in    n4",
+      "nvr": "NVR-10",
+      "channel": 2,
+      "ip": "192.168.1.184",
+      "valid_from": "2026-09-12T12:50:12",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.200": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.200",
+      "nvr": "NVR-11",
+      "channel": 3,
+      "ip": "192.168.1.200",
+      "valid_from": "2026-09-12T12:50:12",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   l2": [
+    {
+      "camera": "IN   L2",
+      "identity": "name:in   l2",
+      "nvr": "NVR-10",
+      "channel": 3,
+      "ip": "192.168.1.185",
+      "valid_from": "2026-09-12T12:50:13",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   r1": [
+    {
+      "camera": "IN   R1",
+      "identity": "name:in   r1",
+      "nvr": "NVR-11",
+      "channel": 4,
+      "ip": "192.168.1.212",
+      "valid_from": "2026-09-12T12:50:13",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.186": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.186",
+      "nvr": "NVR-10",
+      "channel": 4,
+      "ip": "192.168.1.186",
+      "valid_from": "2026-09-12T12:50:13",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   p3": [
+    {
+      "camera": "IN   P3",
+      "identity": "name:in   p3",
+      "nvr": "NVR-11",
+      "channel": 5,
+      "ip": "192.168.1.201",
+      "valid_from": "2026-09-12T12:50:13",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   m3": [
+    {
+      "camera": "IN   M3",
+      "identity": "name:in   m3",
+      "nvr": "NVR-10",
+      "channel": 5,
+      "ip": "192.168.1.187",
+      "valid_from": "2026-09-12T12:50:13",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   r gallery": [
+    {
+      "camera": "IN   R GALLERY",
+      "identity": "name:in   r gallery",
+      "nvr": "NVR-11",
+      "channel": 6,
+      "ip": "192.168.1.202",
+      "valid_from": "2026-09-12T12:50:13",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   m2": [
+    {
+      "camera": "IN   M2",
+      "identity": "name:in   m2",
+      "nvr": "NVR-10",
+      "channel": 6,
+      "ip": "192.168.1.188",
+      "valid_from": "2026-09-12T12:50:13",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:gallery 1": [
+    {
+      "camera": "GALLERY 1",
+      "identity": "name:gallery 1",
+      "nvr": "NVR-11",
+      "channel": 7,
+      "ip": "192.168.1.203",
+      "valid_from": "2026-09-12T12:50:13",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   o1": [
+    {
+      "camera": "IN   O1",
+      "identity": "name:in   o1",
+      "nvr": "NVR-10",
+      "channel": 7,
+      "ip": "192.168.1.189",
+      "valid_from": "2026-09-12T12:50:13",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   p1": [
+    {
+      "camera": "IN   P1",
+      "identity": "name:in   p1",
+      "nvr": "NVR-11",
+      "channel": 8,
+      "ip": "192.168.1.204",
+      "valid_from": "2026-09-12T12:50:14",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   l4": [
+    {
+      "camera": "IN   L4",
+      "identity": "name:in   l4",
+      "nvr": "NVR-10",
+      "channel": 8,
+      "ip": "192.168.1.190",
+      "valid_from": "2026-09-12T12:50:14",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.205": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.205",
+      "nvr": "NVR-11",
+      "channel": 9,
+      "ip": "192.168.1.205",
+      "valid_from": "2026-09-12T12:50:14",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    o4": [
+    {
+      "camera": "IN    O4",
+      "identity": "name:in    o4",
+      "nvr": "NVR-10",
+      "channel": 9,
+      "ip": "192.168.1.191",
+      "valid_from": "2026-09-12T12:50:14",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   m1": [
+    {
+      "camera": "IN   M1",
+      "identity": "name:in   m1",
+      "nvr": "NVR-10",
+      "channel": 10,
+      "ip": "192.168.1.192",
+      "valid_from": "2026-09-12T12:50:14",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in  t1": [
+    {
+      "camera": "IN  T1",
+      "identity": "name:in  t1",
+      "nvr": "NVR-11",
+      "channel": 11,
+      "ip": "192.168.1.207",
+      "valid_from": "2026-09-12T12:50:14",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   m4": [
+    {
+      "camera": "IN   M4",
+      "identity": "name:in   m4",
+      "nvr": "NVR-10",
+      "channel": 11,
+      "ip": "192.168.1.193",
+      "valid_from": "2026-09-12T12:50:14",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.208": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.208",
+      "nvr": "NVR-11",
+      "channel": 12,
+      "ip": "192.168.1.208",
+      "valid_from": "2026-09-12T12:50:14",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   n3": [
+    {
+      "camera": "IN   N3",
+      "identity": "name:in   n3",
+      "nvr": "NVR-10",
+      "channel": 12,
+      "ip": "192.168.1.197",
+      "valid_from": "2026-09-12T12:50:14",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:gallery 2": [
+    {
+      "camera": "GALLERY 2",
+      "identity": "name:gallery 2",
+      "nvr": "NVR-11",
+      "channel": 13,
+      "ip": "192.168.1.209",
+      "valid_from": "2026-09-12T12:50:14",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.194": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.194",
+      "nvr": "NVR-10",
+      "channel": 13,
+      "ip": "192.168.1.194",
+      "valid_from": "2026-09-12T12:50:15",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.210": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.210",
+      "nvr": "NVR-11",
+      "channel": 14,
+      "ip": "192.168.1.210",
+      "valid_from": "2026-09-12T12:50:15",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    n1": [
+    {
+      "camera": "IN    N1",
+      "identity": "name:in    n1",
+      "nvr": "NVR-10",
+      "channel": 14,
+      "ip": "192.168.1.195",
+      "valid_from": "2026-09-12T12:50:15",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "ip:192.168.1.211": [
+    {
+      "camera": "Camera 01",
+      "identity": "ip:192.168.1.211",
+      "nvr": "NVR-11",
+      "channel": 15,
+      "ip": "192.168.1.211",
+      "valid_from": "2026-09-12T12:50:15",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   o3": [
+    {
+      "camera": "IN   O3",
+      "identity": "name:in   o3",
+      "nvr": "NVR-10",
+      "channel": 15,
+      "ip": "192.168.1.196",
+      "valid_from": "2026-09-12T12:50:15",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in     e 8": [
+    {
+      "camera": "IN     E 8",
+      "identity": "name:in     e 8",
+      "nvr": "NVR-12",
+      "channel": 1,
+      "ip": "192.168.1.213",
+      "valid_from": "2026-09-12T14:12:03",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    g5": [
+    {
+      "camera": "IN    G5",
+      "identity": "name:in    g5",
+      "nvr": "NVR-12",
+      "channel": 3,
+      "ip": "192.168.1.215",
+      "valid_from": "2026-09-12T14:12:03",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    e5": [
+    {
+      "camera": "IN    E5",
+      "identity": "name:in    e5",
+      "nvr": "NVR-12",
+      "channel": 4,
+      "ip": "192.168.1.217",
+      "valid_from": "2026-09-12T14:12:03",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in     f5": [
+    {
+      "camera": "IN     F5",
+      "identity": "name:in     f5",
+      "nvr": "NVR-12",
+      "channel": 5,
+      "ip": "192.168.1.219",
+      "valid_from": "2026-09-12T14:12:04",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in     g6": [
+    {
+      "camera": "IN     G6",
+      "identity": "name:in     g6",
+      "nvr": "NVR-12",
+      "channel": 6,
+      "ip": "192.168.1.220",
+      "valid_from": "2026-09-12T14:12:04",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in     f8": [
+    {
+      "camera": "IN     F8",
+      "identity": "name:in     f8",
+      "nvr": "NVR-12",
+      "channel": 7,
+      "ip": "192.168.1.214",
+      "valid_from": "2026-09-12T14:12:04",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   d 7": [
+    {
+      "camera": "IN   D 7",
+      "identity": "name:in   d 7",
+      "nvr": "NVR-12",
+      "channel": 8,
+      "ip": "192.168.1.223",
+      "valid_from": "2026-09-12T14:12:05",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in    d5": [
+    {
+      "camera": "IN    D5",
+      "identity": "name:in    d5",
+      "nvr": "NVR-12",
+      "channel": 9,
+      "ip": "192.168.1.216",
+      "valid_from": "2026-09-12T14:12:05",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   e6": [
+    {
+      "camera": "IN   E6",
+      "identity": "name:in   e6",
+      "nvr": "NVR-12",
+      "channel": 10,
+      "ip": "192.168.1.224",
+      "valid_from": "2026-09-12T14:12:06",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in   d6": [
+    {
+      "camera": "IN   D6",
+      "identity": "name:in   d6",
+      "nvr": "NVR-12",
+      "channel": 11,
+      "ip": "192.168.1.221",
+      "valid_from": "2026-09-12T14:12:07",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in     e7": [
+    {
+      "camera": "IN     E7",
+      "identity": "name:in     e7",
+      "nvr": "NVR-12",
+      "channel": 12,
+      "ip": "192.168.1.226",
+      "valid_from": "2026-09-12T14:12:07",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in     f 7": [
+    {
+      "camera": "IN     F 7",
+      "identity": "name:in     f 7",
+      "nvr": "NVR-12",
+      "channel": 13,
+      "ip": "192.168.1.218",
+      "valid_from": "2026-09-12T14:12:08",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in     f6": [
+    {
+      "camera": "IN     F6",
+      "identity": "name:in     f6",
+      "nvr": "NVR-12",
+      "channel": 14,
+      "ip": "192.168.1.222",
+      "valid_from": "2026-09-12T14:12:08",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ],
+  "name:in     g7": [
+    {
+      "camera": "IN     G7",
+      "identity": "name:in     g7",
+      "nvr": "NVR-12",
+      "channel": 15,
+      "ip": "192.168.1.225",
+      "valid_from": "2026-09-12T14:12:09",
+      "valid_to": null,
+      "moved_from": null,
+      "moved_to": null,
+      "source": "live-discovery"
+    }
+  ]
+}

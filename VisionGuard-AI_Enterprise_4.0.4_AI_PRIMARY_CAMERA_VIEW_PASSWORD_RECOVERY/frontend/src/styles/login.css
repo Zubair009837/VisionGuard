@@ -1,0 +1,40 @@
+.vg-login-page{min-height:100vh;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden;background:radial-gradient(circle at 20% 0%,rgba(37,99,235,.24),transparent 35%),radial-gradient(circle at 90% 100%,rgba(14,165,233,.12),transparent 32%),#030a16;color:#eef6ff;font-family:Inter,Segoe UI,Arial,sans-serif}
+.vg-login-glow{position:absolute;width:360px;height:360px;border-radius:50%;filter:blur(100px);pointer-events:none}.vg-login-glow-one{top:-180px;left:10%;background:rgba(37,99,235,.16)}.vg-login-glow-two{right:0;bottom:-200px;background:rgba(14,165,233,.12)}
+.vg-login-card{position:relative;z-index:2;width:min(460px,calc(100vw - 32px));padding:38px;border-radius:24px;background:linear-gradient(145deg,rgba(11,30,55,.98),rgba(5,15,29,.98));border:1px solid rgba(96,165,250,.25);box-shadow:0 30px 100px rgba(0,0,0,.45)}
+.vg-login-badge{width:68px;height:68px;display:flex;align-items:center;justify-content:center;border-radius:19px;background:linear-gradient(135deg,#2563eb,#0ea5e9);font-size:32px;box-shadow:0 12px 35px rgba(37,99,235,.35);margin-bottom:20px}.vg-login-eyebrow{font-size:12px;font-weight:900;letter-spacing:2px;color:#67b7ff}.vg-login-card h1{margin:8px 0;font-size:30px}.vg-login-card p{margin:0 0 25px;color:#8fa6c7;font-size:15px;line-height:1.6}.vg-login-card label{display:block;margin:15px 0 7px;color:#91a8c8;font-size:12px;font-weight:900;letter-spacing:1px}.vg-login-card input{width:100%;padding:14px 15px;border-radius:11px;border:1px solid #24436c;background:#061326;color:#fff;outline:none;font-size:16px}.vg-login-card input:focus{border-color:#3b82f6;box-shadow:0 0 0 4px rgba(59,130,246,.12)}.vg-login-card button{width:100%;margin-top:20px;padding:14px;border:0;border-radius:11px;background:linear-gradient(135deg,#2563eb,#3b82f6);color:#fff;font-size:16px;font-weight:900;cursor:pointer;box-shadow:0 10px 28px rgba(37,99,235,.25)}.vg-login-card button:disabled{opacity:.65;cursor:wait}.vg-login-error{margin-top:14px;padding:11px 13px;border-radius:9px;background:rgba(239,68,68,.09);border:1px solid rgba(239,68,68,.25);color:#fca5a5;font-size:13px}.vg-login-footer{margin-top:20px;text-align:center;color:#5f789b;font-size:12px}
+
+
+.vg-login-info {
+  margin-top: 12px;
+  padding: 10px 12px;
+  border: 1px solid rgba(52, 211, 153, 0.28);
+  background: rgba(16, 185, 129, 0.08);
+  color: #6ee7b7;
+  border-radius: 8px;
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+.vg-forgot-password {
+  display: block;
+  width: 100%;
+  margin-top: 12px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #7fb7ff;
+  font-size: 12px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.vg-forgot-password:hover {
+  color: #b7d7ff;
+  text-decoration: underline;
+}
+
+.vg-forgot-password:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

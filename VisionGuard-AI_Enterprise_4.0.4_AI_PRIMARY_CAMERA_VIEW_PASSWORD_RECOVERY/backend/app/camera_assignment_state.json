@@ -1,0 +1,1690 @@
+{
+  "name:in    r5": {
+    "identity": "name:in    r5",
+    "camera": "IN    R5",
+    "ip": "192.168.1.54",
+    "nvr": "NVR-3",
+    "channel": 1,
+    "last_seen": "12-09-2026 03:33:11 PM"
+  },
+  "name:b2c lobby": {
+    "identity": "name:b2c lobby",
+    "camera": "B2C LOBBY",
+    "ip": "192.168.1.75",
+    "nvr": "NVR-4",
+    "channel": 1,
+    "last_seen": "18-08-2026 06:58:53 PM"
+  },
+  "name:in   k3": {
+    "identity": "name:in   k3",
+    "camera": "IN   K3",
+    "ip": "192.168.1.153",
+    "nvr": "NVR-8",
+    "channel": 1,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:srn 1": {
+    "identity": "name:srn 1",
+    "camera": "SRN 1",
+    "ip": "192.168.1.94",
+    "nvr": "NVR-5",
+    "channel": 1,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in  h3": {
+    "identity": "name:in  h3",
+    "camera": "IN  H3",
+    "ip": "192.168.1.168",
+    "nvr": "NVR-9",
+    "channel": 1,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:qc table 1": {
+    "identity": "name:qc table 1",
+    "camera": "QC Table 1",
+    "ip": "192.168.1.62",
+    "nvr": "NVR-1",
+    "channel": 1,
+    "last_seen": "18-08-2026 04:40:52 PM"
+  },
+  "name:qc table  5": {
+    "identity": "name:qc table  5",
+    "camera": "QC TABLE  5",
+    "ip": "192.168.1.78",
+    "nvr": "NVR-2",
+    "channel": 1,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in  b1": {
+    "identity": "name:in  b1",
+    "camera": "IN  B1",
+    "ip": "192.168.1.123",
+    "nvr": "NVR-6",
+    "channel": 1,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:lm 3 pl": {
+    "identity": "name:lm 3 pl",
+    "camera": "LM 3 PL",
+    "ip": "192.168.1.138",
+    "nvr": "NVR-7",
+    "channel": 1,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "ip:192.168.1.55": {
+    "identity": "ip:192.168.1.55",
+    "camera": "Camera 01",
+    "ip": "192.168.1.55",
+    "nvr": "NVR-3",
+    "channel": 2,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:qr generate area": {
+    "identity": "name:qr generate area",
+    "camera": "QR GENERATE AREA",
+    "ip": "192.168.1.32",
+    "nvr": "NVR-4",
+    "channel": 2,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in   j2": {
+    "identity": "name:in   j2",
+    "camera": "IN   J2",
+    "ip": "192.168.1.154",
+    "nvr": "NVR-8",
+    "channel": 2,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:srn   2": {
+    "identity": "name:srn   2",
+    "camera": "SRN   2",
+    "ip": "192.168.1.95",
+    "nvr": "NVR-5",
+    "channel": 2,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in   g2": {
+    "identity": "name:in   g2",
+    "camera": "IN   G2",
+    "ip": "192.168.1.169",
+    "nvr": "NVR-9",
+    "channel": 2,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:processing 1": {
+    "identity": "name:processing 1",
+    "camera": "PROCESSING 1",
+    "ip": "192.168.1.63",
+    "nvr": "NVR-1",
+    "channel": 2,
+    "last_seen": "18-08-2026 05:31:36 PM"
+  },
+  "name:qc table 13": {
+    "identity": "name:qc table 13",
+    "camera": "QC TABLE 13",
+    "ip": "192.168.1.79",
+    "nvr": "NVR-2",
+    "channel": 2,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:bulk gallery": {
+    "identity": "name:bulk gallery",
+    "camera": "BULK GALLERY",
+    "ip": "192.168.1.56",
+    "nvr": "NVR-3",
+    "channel": 3,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:prd area": {
+    "identity": "name:prd area",
+    "camera": "PRD AREA",
+    "ip": "192.168.1.33",
+    "nvr": "NVR-4",
+    "channel": 3,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:dock yard 1": {
+    "identity": "name:dock yard 1",
+    "camera": "DOCK YARD 1",
+    "ip": "192.168.1.96",
+    "nvr": "NVR-5",
+    "channel": 3,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in   g1": {
+    "identity": "name:in   g1",
+    "camera": "IN   G1",
+    "ip": "192.168.1.170",
+    "nvr": "NVR-9",
+    "channel": 3,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:3rd lot": {
+    "identity": "name:3rd lot",
+    "camera": "3RD LOT",
+    "ip": "192.168.1.139",
+    "nvr": "NVR-7",
+    "channel": 2,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in   i1": {
+    "identity": "name:in   i1",
+    "camera": "IN   I1",
+    "ip": "192.168.1.155",
+    "nvr": "NVR-8",
+    "channel": 3,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "ip:192.168.1.124": {
+    "identity": "ip:192.168.1.124",
+    "camera": "Camera 01",
+    "ip": "192.168.1.124",
+    "nvr": "NVR-6",
+    "channel": 2,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:qc table 7": {
+    "identity": "name:qc table 7",
+    "camera": "QC TABLE 7",
+    "ip": "192.168.1.59",
+    "nvr": "NVR-1",
+    "channel": 3,
+    "last_seen": "18-08-2026 04:52:41 PM"
+  },
+  "name:in   q1": {
+    "identity": "name:in   q1",
+    "camera": "IN   Q1",
+    "ip": "192.168.1.57",
+    "nvr": "NVR-3",
+    "channel": 4,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:qa area": {
+    "identity": "name:qa area",
+    "camera": "QA AREA",
+    "ip": "192.168.1.97",
+    "nvr": "NVR-5",
+    "channel": 4,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in   e3": {
+    "identity": "name:in   e3",
+    "camera": "IN   E3",
+    "ip": "192.168.1.171",
+    "nvr": "NVR-9",
+    "channel": 4,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:qc table 2": {
+    "identity": "name:qc table 2",
+    "camera": "QC TABLE 2",
+    "ip": "192.168.1.80",
+    "nvr": "NVR-2",
+    "channel": 3,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:lm cod front": {
+    "identity": "name:lm cod front",
+    "camera": "LM COD FRONT",
+    "ip": "192.168.1.140",
+    "nvr": "NVR-7",
+    "channel": 3,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:po office": {
+    "identity": "name:po office",
+    "camera": "PO OFFICE",
+    "ip": "192.168.1.34",
+    "nvr": "NVR-4",
+    "channel": 4,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in    j3": {
+    "identity": "name:in    j3",
+    "camera": "IN    J3",
+    "ip": "192.168.1.156",
+    "nvr": "NVR-8",
+    "channel": 4,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:nvr 10 cam 121   qc&packing": {
+    "identity": "name:nvr 10 cam 121   qc&packing",
+    "camera": "NVR 10 Cam 121   QC&PACKING",
+    "ip": "192.168.1.101",
+    "nvr": "NVR-5",
+    "channel": 5,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:ipcamera 04": {
+    "identity": "name:ipcamera 04",
+    "camera": "IPCamera 04",
+    "ip": "192.168.1.58",
+    "nvr": "NVR-3",
+    "channel": 5,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in  e1": {
+    "identity": "name:in  e1",
+    "camera": "IN  E1",
+    "ip": "192.168.1.172",
+    "nvr": "NVR-9",
+    "channel": 5,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "ip:192.168.1.65": {
+    "identity": "ip:192.168.1.65",
+    "camera": "Camera 01",
+    "ip": "192.168.1.65",
+    "nvr": "NVR-1",
+    "channel": 4,
+    "last_seen": "18-08-2026 04:57:30 PM"
+  },
+  "name:in  a1": {
+    "identity": "name:in  a1",
+    "camera": "IN  A1",
+    "ip": "192.168.1.125",
+    "nvr": "NVR-6",
+    "channel": 3,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:lm rack": {
+    "identity": "name:lm rack",
+    "camera": "LM RACK",
+    "ip": "192.168.1.141",
+    "nvr": "NVR-7",
+    "channel": 4,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:dock yard 3": {
+    "identity": "name:dock yard 3",
+    "camera": "DOCK YARD 3",
+    "ip": "192.168.1.35",
+    "nvr": "NVR-4",
+    "channel": 5,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:qc table 14": {
+    "identity": "name:qc table 14",
+    "camera": "QC TABLE 14",
+    "ip": "192.168.1.81",
+    "nvr": "NVR-2",
+    "channel": 4,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in   j4": {
+    "identity": "name:in   j4",
+    "camera": "IN   J4",
+    "ip": "192.168.1.157",
+    "nvr": "NVR-8",
+    "channel": 5,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:main  entry gate": {
+    "identity": "name:main  entry gate",
+    "camera": "MAIN  ENTRY GATE",
+    "ip": "192.168.1.99",
+    "nvr": "NVR-5",
+    "channel": 6,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:amazon table": {
+    "identity": "name:amazon table",
+    "camera": "AMAZON TABLE",
+    "ip": "192.168.1.64",
+    "nvr": "NVR-3",
+    "channel": 6,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in   g3": {
+    "identity": "name:in   g3",
+    "camera": "IN   G3",
+    "ip": "192.168.1.173",
+    "nvr": "NVR-9",
+    "channel": 6,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:b2b gallery": {
+    "identity": "name:b2b gallery",
+    "camera": "B2B GALLERY",
+    "ip": "192.168.1.66",
+    "nvr": "NVR-1",
+    "channel": 5,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in  d2": {
+    "identity": "name:in  d2",
+    "camera": "IN  D2",
+    "ip": "192.168.1.126",
+    "nvr": "NVR-6",
+    "channel": 4,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:lm outdoor": {
+    "identity": "name:lm outdoor",
+    "camera": "LM OUTDOOR",
+    "ip": "192.168.1.142",
+    "nvr": "NVR-7",
+    "channel": 5,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:pv area": {
+    "identity": "name:pv area",
+    "camera": "PV AREA",
+    "ip": "192.168.1.36",
+    "nvr": "NVR-4",
+    "channel": 6,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in   i 2": {
+    "identity": "name:in   i 2",
+    "camera": "IN   I 2",
+    "ip": "192.168.1.158",
+    "nvr": "NVR-8",
+    "channel": 6,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:dock yard 2": {
+    "identity": "name:dock yard 2",
+    "camera": "DOCK YARD 2",
+    "ip": "192.168.1.100",
+    "nvr": "NVR-5",
+    "channel": 7,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in    v1": {
+    "identity": "name:in    v1",
+    "camera": "IN    V1",
+    "ip": "192.168.1.60",
+    "nvr": "NVR-3",
+    "channel": 7,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in  f4": {
+    "identity": "name:in  f4",
+    "camera": "IN  F4",
+    "ip": "192.168.1.174",
+    "nvr": "NVR-9",
+    "channel": 7,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:processng 2": {
+    "identity": "name:processng 2",
+    "camera": "PROCESSNG 2",
+    "ip": "192.168.1.67",
+    "nvr": "NVR-1",
+    "channel": 6,
+    "last_seen": "18-08-2026 04:50:51 PM"
+  },
+  "name:out bond area": {
+    "identity": "name:out bond area",
+    "camera": "OUT BOND AREA",
+    "ip": "192.168.1.127",
+    "nvr": "NVR-6",
+    "channel": 5,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:lm entry": {
+    "identity": "name:lm entry",
+    "camera": "LM ENTRY",
+    "ip": "192.168.1.143",
+    "nvr": "NVR-7",
+    "channel": 6,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:cold room": {
+    "identity": "name:cold room",
+    "camera": "COLD ROOM",
+    "ip": "192.168.1.37",
+    "nvr": "NVR-4",
+    "channel": 8,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:qc table 4": {
+    "identity": "name:qc table 4",
+    "camera": "QC TABLE 4",
+    "ip": "192.168.1.83",
+    "nvr": "NVR-2",
+    "channel": 6,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in    h1": {
+    "identity": "name:in    h1",
+    "camera": "IN    H1",
+    "ip": "192.168.1.159",
+    "nvr": "NVR-8",
+    "channel": 7,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:inbound entry gate": {
+    "identity": "name:inbound entry gate",
+    "camera": "INBOUND ENTRY GATE",
+    "ip": "192.168.1.98",
+    "nvr": "NVR-5",
+    "channel": 8,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:pr front gate": {
+    "identity": "name:pr front gate",
+    "camera": "PR FRONT GATE",
+    "ip": "192.168.1.61",
+    "nvr": "NVR-3",
+    "channel": 8,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in   h2": {
+    "identity": "name:in   h2",
+    "camera": "IN   H2",
+    "ip": "192.168.1.175",
+    "nvr": "NVR-9",
+    "channel": 8,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:rto": {
+    "identity": "name:rto",
+    "camera": "RTO",
+    "ip": "192.168.1.68",
+    "nvr": "NVR-1",
+    "channel": 7,
+    "last_seen": "18-08-2026 04:55:31 PM"
+  },
+  "name:in  b2": {
+    "identity": "name:in  b2",
+    "camera": "IN  B2",
+    "ip": "192.168.1.128",
+    "nvr": "NVR-6",
+    "channel": 6,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:shiping scan": {
+    "identity": "name:shiping scan",
+    "camera": "SHIPING SCAN",
+    "ip": "192.168.1.144",
+    "nvr": "NVR-7",
+    "channel": 7,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:bar code": {
+    "identity": "name:bar code",
+    "camera": "BAR CODE",
+    "ip": "192.168.1.38",
+    "nvr": "NVR-4",
+    "channel": 9,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:qctable 9": {
+    "identity": "name:qctable 9",
+    "camera": "QCTABLE 9",
+    "ip": "192.168.1.84",
+    "nvr": "NVR-2",
+    "channel": 7,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in   i 3": {
+    "identity": "name:in   i 3",
+    "camera": "IN   I 3",
+    "ip": "192.168.1.160",
+    "nvr": "NVR-8",
+    "channel": 8,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "ip:192.168.1.102": {
+    "identity": "ip:192.168.1.102",
+    "camera": "Camera 01",
+    "ip": "192.168.1.102",
+    "nvr": "NVR-5",
+    "channel": 9,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in   g4": {
+    "identity": "name:in   g4",
+    "camera": "IN   G4",
+    "ip": "192.168.1.176",
+    "nvr": "NVR-9",
+    "channel": 9,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:qc table 5": {
+    "identity": "name:qc table 5",
+    "camera": "QC TABLE 5",
+    "ip": "192.168.1.69",
+    "nvr": "NVR-1",
+    "channel": 8,
+    "last_seen": "18-08-2026 04:46:39 PM"
+  },
+  "name:nvr3 cam 17   inventory": {
+    "identity": "name:nvr3 cam 17   inventory",
+    "camera": "NVR3 Cam 17   INVENTORY",
+    "ip": "192.168.1.129",
+    "nvr": "NVR-6",
+    "channel": 7,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:rto hand over": {
+    "identity": "name:rto hand over",
+    "camera": "RTO HAND OVER",
+    "ip": "192.168.1.145",
+    "nvr": "NVR-7",
+    "channel": 8,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "ip:192.168.1.39": {
+    "identity": "ip:192.168.1.39",
+    "camera": "Camera 01",
+    "ip": "192.168.1.39",
+    "nvr": "NVR-4",
+    "channel": 11,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:qc table 3": {
+    "identity": "name:qc table 3",
+    "camera": "QC TABLE 3",
+    "ip": "192.168.1.85",
+    "nvr": "NVR-2",
+    "channel": 8,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in    k4": {
+    "identity": "name:in    k4",
+    "camera": "IN    K4",
+    "ip": "192.168.1.161",
+    "nvr": "NVR-8",
+    "channel": 9,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:server room": {
+    "identity": "name:server room",
+    "camera": "SERVER ROOM",
+    "ip": "192.168.1.103",
+    "nvr": "NVR-5",
+    "channel": 10,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:in  f3": {
+    "identity": "name:in  f3",
+    "camera": "IN  F3",
+    "ip": "192.168.1.177",
+    "nvr": "NVR-9",
+    "channel": 10,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:qc table  20": {
+    "identity": "name:qc table  20",
+    "camera": "QC TABLE  20",
+    "ip": "192.168.1.70",
+    "nvr": "NVR-1",
+    "channel": 9,
+    "last_seen": "18-08-2026 05:00:46 PM"
+  },
+  "name:in  c2": {
+    "identity": "name:in  c2",
+    "camera": "IN  C2",
+    "ip": "192.168.1.130",
+    "nvr": "NVR-6",
+    "channel": 8,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:cod room": {
+    "identity": "name:cod room",
+    "camera": "COD ROOM",
+    "ip": "192.168.1.146",
+    "nvr": "NVR-7",
+    "channel": 9,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:in    v3": {
+    "identity": "name:in    v3",
+    "camera": "IN    V3",
+    "ip": "192.168.1.40",
+    "nvr": "NVR-4",
+    "channel": 12,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:qc table 17": {
+    "identity": "name:qc table 17",
+    "camera": "QC TABLE 17",
+    "ip": "192.168.1.86",
+    "nvr": "NVR-2",
+    "channel": 9,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in    k2": {
+    "identity": "name:in    k2",
+    "camera": "IN    K2",
+    "ip": "192.168.1.162",
+    "nvr": "NVR-8",
+    "channel": 10,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:outbound 2": {
+    "identity": "name:outbound 2",
+    "camera": "OUTBOUND 2",
+    "ip": "192.168.1.104",
+    "nvr": "NVR-5",
+    "channel": 11,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:in  d1": {
+    "identity": "name:in  d1",
+    "camera": "IN  D1",
+    "ip": "192.168.1.178",
+    "nvr": "NVR-9",
+    "channel": 11,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "ip:192.168.1.71": {
+    "identity": "ip:192.168.1.71",
+    "camera": "Camera 01",
+    "ip": "192.168.1.71",
+    "nvr": "NVR-1",
+    "channel": 10,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:in   d4": {
+    "identity": "name:in   d4",
+    "camera": "IN   D4",
+    "ip": "192.168.1.132",
+    "nvr": "NVR-6",
+    "channel": 9,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:lmqc 1": {
+    "identity": "name:lmqc 1",
+    "camera": "LMQC 1",
+    "ip": "192.168.1.147",
+    "nvr": "NVR-7",
+    "channel": 11,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "ip:192.168.1.41": {
+    "identity": "ip:192.168.1.41",
+    "camera": "Camera 01",
+    "ip": "192.168.1.41",
+    "nvr": "NVR-4",
+    "channel": 13,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:qc table 8": {
+    "identity": "name:qc table 8",
+    "camera": "QC TABLE 8",
+    "ip": "192.168.1.87",
+    "nvr": "NVR-2",
+    "channel": 10,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:in   l3": {
+    "identity": "name:in   l3",
+    "camera": "IN   L3",
+    "ip": "192.168.1.163",
+    "nvr": "NVR-8",
+    "channel": 11,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:srn   4": {
+    "identity": "name:srn   4",
+    "camera": "SRN   4",
+    "ip": "192.168.1.105",
+    "nvr": "NVR-5",
+    "channel": 12,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:in   f2": {
+    "identity": "name:in   f2",
+    "camera": "IN   F2",
+    "ip": "192.168.1.179",
+    "nvr": "NVR-9",
+    "channel": 12,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:pack 2": {
+    "identity": "name:pack 2",
+    "camera": "PACK 2",
+    "ip": "192.168.1.72",
+    "nvr": "NVR-1",
+    "channel": 11,
+    "last_seen": "18-08-2026 05:31:23 PM"
+  },
+  "name:in   d3": {
+    "identity": "name:in   d3",
+    "camera": "IN   D3",
+    "ip": "192.168.1.131",
+    "nvr": "NVR-6",
+    "channel": 10,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:rto scan wh": {
+    "identity": "name:rto scan wh",
+    "camera": "RTO SCAN WH",
+    "ip": "192.168.1.148",
+    "nvr": "NVR-7",
+    "channel": 12,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "ip:192.168.1.42": {
+    "identity": "ip:192.168.1.42",
+    "camera": "Camera 01",
+    "ip": "192.168.1.42",
+    "nvr": "NVR-4",
+    "channel": 14,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:amazon table 15": {
+    "identity": "name:amazon table 15",
+    "camera": "AMAZON TABLE 15",
+    "ip": "192.168.1.88",
+    "nvr": "NVR-2",
+    "channel": 11,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:in   i 4": {
+    "identity": "name:in   i 4",
+    "camera": "IN   I 4",
+    "ip": "192.168.1.164",
+    "nvr": "NVR-8",
+    "channel": 12,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:outbound gallery": {
+    "identity": "name:outbound gallery",
+    "camera": "OUTBOUND GALLERY",
+    "ip": "192.168.1.106",
+    "nvr": "NVR-5",
+    "channel": 13,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:in  e2": {
+    "identity": "name:in  e2",
+    "camera": "IN  E2",
+    "ip": "192.168.1.180",
+    "nvr": "NVR-9",
+    "channel": 13,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:dispatch": {
+    "identity": "name:dispatch",
+    "camera": "DISPATCH",
+    "ip": "192.168.1.73",
+    "nvr": "NVR-1",
+    "channel": 12,
+    "last_seen": "18-08-2026 05:01:49 PM"
+  },
+  "name:in  c3": {
+    "identity": "name:in  c3",
+    "camera": "IN  C3",
+    "ip": "192.168.1.133",
+    "nvr": "NVR-6",
+    "channel": 11,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:cash recive": {
+    "identity": "name:cash recive",
+    "camera": "CASH RECIVE",
+    "ip": "192.168.1.149",
+    "nvr": "NVR-7",
+    "channel": 13,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "ip:192.168.1.43": {
+    "identity": "ip:192.168.1.43",
+    "camera": "Camera 01",
+    "ip": "192.168.1.43",
+    "nvr": "NVR-4",
+    "channel": 15,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:qc table 11": {
+    "identity": "name:qc table 11",
+    "camera": "QC TABLE 11",
+    "ip": "192.168.1.89",
+    "nvr": "NVR-2",
+    "channel": 12,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:in   h4": {
+    "identity": "name:in   h4",
+    "camera": "IN   H4",
+    "ip": "192.168.1.165",
+    "nvr": "NVR-8",
+    "channel": 13,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:security desk 1": {
+    "identity": "name:security desk 1",
+    "camera": "SECURITY DESK 1",
+    "ip": "192.168.1.107",
+    "nvr": "NVR-5",
+    "channel": 14,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:in   f1": {
+    "identity": "name:in   f1",
+    "camera": "IN   F1",
+    "ip": "192.168.1.181",
+    "nvr": "NVR-9",
+    "channel": 14,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:qc table 9": {
+    "identity": "name:qc table 9",
+    "camera": "QC TABLE 9",
+    "ip": "192.168.1.74",
+    "nvr": "NVR-1",
+    "channel": 13,
+    "last_seen": "18-08-2026 04:54:01 PM"
+  },
+  "name:in  b3": {
+    "identity": "name:in  b3",
+    "camera": "IN  B3",
+    "ip": "192.168.1.134",
+    "nvr": "NVR-6",
+    "channel": 12,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:lm area": {
+    "identity": "name:lm area",
+    "camera": "LM AREA",
+    "ip": "192.168.1.150",
+    "nvr": "NVR-7",
+    "channel": 14,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:in    x1": {
+    "identity": "name:in    x1",
+    "camera": "IN    X1",
+    "ip": "192.168.1.44",
+    "nvr": "NVR-4",
+    "channel": 16,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:qc table 10": {
+    "identity": "name:qc table 10",
+    "camera": "QC TABLE 10",
+    "ip": "192.168.1.90",
+    "nvr": "NVR-2",
+    "channel": 13,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:in   j1": {
+    "identity": "name:in   j1",
+    "camera": "IN   J1",
+    "ip": "192.168.1.166",
+    "nvr": "NVR-8",
+    "channel": 14,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:srn   7": {
+    "identity": "name:srn   7",
+    "camera": "SRN   7",
+    "ip": "192.168.1.108",
+    "nvr": "NVR-5",
+    "channel": 15,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:in   e4": {
+    "identity": "name:in   e4",
+    "camera": "IN   E4",
+    "ip": "192.168.1.182",
+    "nvr": "NVR-9",
+    "channel": 15,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "ip:192.168.1.135": {
+    "identity": "ip:192.168.1.135",
+    "camera": "Camera 01",
+    "ip": "192.168.1.135",
+    "nvr": "NVR-6",
+    "channel": 13,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:lm": {
+    "identity": "name:lm",
+    "camera": "LM",
+    "ip": "192.168.1.151",
+    "nvr": "NVR-7",
+    "channel": 15,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:in    q5": {
+    "identity": "name:in    q5",
+    "camera": "IN    Q5",
+    "ip": "192.168.1.45",
+    "nvr": "NVR-4",
+    "channel": 17,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:qc table 12": {
+    "identity": "name:qc table 12",
+    "camera": "QC TABLE 12",
+    "ip": "192.168.1.91",
+    "nvr": "NVR-2",
+    "channel": 14,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:in   k1": {
+    "identity": "name:in   k1",
+    "camera": "IN   K1",
+    "ip": "192.168.1.167",
+    "nvr": "NVR-8",
+    "channel": 15,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:logistick": {
+    "identity": "name:logistick",
+    "camera": "LOGISTICK",
+    "ip": "192.168.1.109",
+    "nvr": "NVR-5",
+    "channel": 16,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:in  a4": {
+    "identity": "name:in  a4",
+    "camera": "IN  A4",
+    "ip": "192.168.1.136",
+    "nvr": "NVR-6",
+    "channel": 14,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:in   u1": {
+    "identity": "name:in   u1",
+    "camera": "IN   U1",
+    "ip": "192.168.1.46",
+    "nvr": "NVR-4",
+    "channel": 18,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:srn  5": {
+    "identity": "name:srn  5",
+    "camera": "SRN  5",
+    "ip": "192.168.1.110",
+    "nvr": "NVR-5",
+    "channel": 17,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "ip:192.168.1.77": {
+    "identity": "ip:192.168.1.77",
+    "camera": "Camera 01",
+    "ip": "192.168.1.77",
+    "nvr": "NVR-1",
+    "channel": 16,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:in  c1": {
+    "identity": "name:in  c1",
+    "camera": "IN  C1",
+    "ip": "192.168.1.137",
+    "nvr": "NVR-6",
+    "channel": 15,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "ip:192.168.1.47": {
+    "identity": "ip:192.168.1.47",
+    "camera": "Camera 01",
+    "ip": "192.168.1.47",
+    "nvr": "NVR-4",
+    "channel": 19,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:qc table 6": {
+    "identity": "name:qc table 6",
+    "camera": "QC TABLE 6",
+    "ip": "192.168.1.93",
+    "nvr": "NVR-2",
+    "channel": 16,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:srn  6": {
+    "identity": "name:srn  6",
+    "camera": "SRN  6",
+    "ip": "192.168.1.111",
+    "nvr": "NVR-5",
+    "channel": 18,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "ip:192.168.1.48": {
+    "identity": "ip:192.168.1.48",
+    "camera": "Camera 01",
+    "ip": "192.168.1.48",
+    "nvr": "NVR-4",
+    "channel": 21,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:caffeteria 1": {
+    "identity": "name:caffeteria 1",
+    "camera": "CAFFETERIA 1",
+    "ip": "192.168.1.112",
+    "nvr": "NVR-5",
+    "channel": 19,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:in    v4": {
+    "identity": "name:in    v4",
+    "camera": "IN    V4",
+    "ip": "192.168.1.49",
+    "nvr": "NVR-4",
+    "channel": 22,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:inbound lobby": {
+    "identity": "name:inbound lobby",
+    "camera": "INBOUND LOBBY",
+    "ip": "192.168.1.113",
+    "nvr": "NVR-5",
+    "channel": 20,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:in    w1": {
+    "identity": "name:in    w1",
+    "camera": "IN    W1",
+    "ip": "192.168.1.50",
+    "nvr": "NVR-4",
+    "channel": 23,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:in   r8": {
+    "identity": "name:in   r8",
+    "camera": "IN   R8",
+    "ip": "192.168.1.51",
+    "nvr": "NVR-4",
+    "channel": 24,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:srn": {
+    "identity": "name:srn",
+    "camera": "SRN",
+    "ip": "192.168.1.115",
+    "nvr": "NVR-5",
+    "channel": 22,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:in   o8": {
+    "identity": "name:in   o8",
+    "camera": "IN   O8",
+    "ip": "192.168.1.52",
+    "nvr": "NVR-4",
+    "channel": 25,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:pack 1": {
+    "identity": "name:pack 1",
+    "camera": "PACK 1",
+    "ip": "192.168.1.122",
+    "nvr": "NVR-5",
+    "channel": 23,
+    "last_seen": "18-08-2026 05:08:11 PM"
+  },
+  "name:gallery  1": {
+    "identity": "name:gallery  1",
+    "camera": "GALLERY  1",
+    "ip": "192.168.1.116",
+    "nvr": "NVR-5",
+    "channel": 24,
+    "last_seen": "12-09-2026 03:33:17 PM"
+  },
+  "name:outdoor  1": {
+    "identity": "name:outdoor  1",
+    "camera": "OUTDOOR  1",
+    "ip": "192.168.1.117",
+    "nvr": "NVR-5",
+    "channel": 25,
+    "last_seen": "12-09-2026 03:33:17 PM"
+  },
+  "name:security desk 2": {
+    "identity": "name:security desk 2",
+    "camera": "SECURITY DESK 2",
+    "ip": "192.168.1.119",
+    "nvr": "NVR-5",
+    "channel": 27,
+    "last_seen": "12-09-2026 03:33:17 PM"
+  },
+  "name:caffeteria  2": {
+    "identity": "name:caffeteria  2",
+    "camera": "CAFFETERIA  2",
+    "ip": "192.168.1.120",
+    "nvr": "NVR-5",
+    "channel": 28,
+    "last_seen": "12-09-2026 03:33:17 PM"
+  },
+  "name:srn   8": {
+    "identity": "name:srn   8",
+    "camera": "SRN   8",
+    "ip": "192.168.1.121",
+    "nvr": "NVR-5",
+    "channel": 29,
+    "last_seen": "12-09-2026 03:33:17 PM"
+  },
+  "name:b2b table 1": {
+    "identity": "name:b2b table 1",
+    "camera": "B2B Table 1",
+    "ip": "192.168.1.62",
+    "nvr": "NVR-1",
+    "channel": 1,
+    "last_seen": "18-08-2026 04:41:41 PM"
+  },
+  "name:b2b qc table 1": {
+    "identity": "name:b2b qc table 1",
+    "camera": "B2B QC TABLE 1",
+    "ip": "192.168.1.62",
+    "nvr": "NVR-1",
+    "channel": 1,
+    "last_seen": "18-08-2026 04:47:44 PM"
+  },
+  "name:b2b qc table 2": {
+    "identity": "name:b2b qc table 2",
+    "camera": "B2B QC TABLE 2",
+    "ip": "192.168.1.76",
+    "nvr": "NVR-1",
+    "channel": 15,
+    "last_seen": "18-08-2026 04:48:18 PM"
+  },
+  "name:b2b qc table 3": {
+    "identity": "name:b2b qc table 3",
+    "camera": "B2B QC TABLE 3",
+    "ip": "192.168.1.77",
+    "nvr": "NVR-1",
+    "channel": 16,
+    "last_seen": "18-08-2026 04:48:34 PM"
+  },
+  "name:b2b qc table 4": {
+    "identity": "name:b2b qc table 4",
+    "camera": "B2B QC TABLE 4",
+    "ip": "192.168.1.71",
+    "nvr": "NVR-1",
+    "channel": 10,
+    "last_seen": "18-08-2026 04:49:49 PM"
+  },
+  "name:b2b qc table 5": {
+    "identity": "name:b2b qc table 5",
+    "camera": "B2B QC TABLE 5",
+    "ip": "192.168.1.69",
+    "nvr": "NVR-1",
+    "channel": 8,
+    "last_seen": "18-08-2026 04:49:20 PM"
+  },
+  "name:b2b qc 1": {
+    "identity": "name:b2b qc 1",
+    "camera": "B2B QC 1",
+    "ip": "192.168.1.62",
+    "nvr": "NVR-1",
+    "channel": 1,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:b2b qc 2": {
+    "identity": "name:b2b qc 2",
+    "camera": "B2B QC 2",
+    "ip": "192.168.1.76",
+    "nvr": "NVR-1",
+    "channel": 15,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:b2b qc 3": {
+    "identity": "name:b2b qc 3",
+    "camera": "B2B QC 3",
+    "ip": "192.168.1.77",
+    "nvr": "NVR-1",
+    "channel": 16,
+    "last_seen": "18-08-2026 06:58:55 PM"
+  },
+  "name:b2b qc 5": {
+    "identity": "name:b2b qc 5",
+    "camera": "B2B QC 5",
+    "ip": "192.168.1.69",
+    "nvr": "NVR-1",
+    "channel": 8,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:b2b qc 4": {
+    "identity": "name:b2b qc 4",
+    "camera": "B2B QC 4",
+    "ip": "192.168.1.71",
+    "nvr": "NVR-1",
+    "channel": 10,
+    "last_seen": "18-08-2026 06:58:54 PM"
+  },
+  "name:b2b qc 6": {
+    "identity": "name:b2b qc 6",
+    "camera": "B2B QC 6",
+    "ip": "192.168.1.67",
+    "nvr": "NVR-1",
+    "channel": 6,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:b2b qc 7": {
+    "identity": "name:b2b qc 7",
+    "camera": "B2B QC 7",
+    "ip": "192.168.1.59",
+    "nvr": "NVR-1",
+    "channel": 3,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:b2b qc 8": {
+    "identity": "name:b2b qc 8",
+    "camera": "B2B QC 8",
+    "ip": "192.168.1.31",
+    "nvr": "NVR-1",
+    "channel": 14,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:b2b qc 9": {
+    "identity": "name:b2b qc 9",
+    "camera": "B2B QC 9",
+    "ip": "192.168.1.74",
+    "nvr": "NVR-1",
+    "channel": 13,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:processing 2": {
+    "identity": "name:processing 2",
+    "camera": "PROCESSING 2",
+    "ip": "192.168.1.68",
+    "nvr": "NVR-1",
+    "channel": 7,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:b2c station 17": {
+    "identity": "name:b2c station 17",
+    "camera": "B2C Station 17",
+    "ip": "192.168.1.65",
+    "nvr": "NVR-1",
+    "channel": 4,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:qc table  18": {
+    "identity": "name:qc table  18",
+    "camera": "QC TABLE  18",
+    "ip": "192.168.1.70",
+    "nvr": "NVR-1",
+    "channel": 9,
+    "last_seen": "18-08-2026 05:07:03 PM"
+  },
+  "name:dispatch 1": {
+    "identity": "name:dispatch 1",
+    "camera": "DISPATCH 1",
+    "ip": "192.168.1.73",
+    "nvr": "NVR-1",
+    "channel": 12,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:ipcamera 09": {
+    "identity": "name:ipcamera 09",
+    "camera": "IPCamera 09",
+    "ip": "192.168.1.122",
+    "nvr": "NVR-1",
+    "channel": 9,
+    "last_seen": "18-08-2026 05:08:41 PM"
+  },
+  "name:b2b pro 1": {
+    "identity": "name:b2b pro 1",
+    "camera": "B2B PRO 1",
+    "ip": "192.168.1.63",
+    "nvr": "NVR-1",
+    "channel": 2,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:b2b pack 1": {
+    "identity": "name:b2b pack 1",
+    "camera": "B2B PACK 1",
+    "ip": "192.168.1.122",
+    "nvr": "NVR-1",
+    "channel": 9,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:b2b pack 2": {
+    "identity": "name:b2b pack 2",
+    "camera": "B2B PACK 2",
+    "ip": "192.168.1.72",
+    "nvr": "NVR-1",
+    "channel": 11,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:b2c lobby 2": {
+    "identity": "name:b2c lobby 2",
+    "camera": "B2C LOBBY 2",
+    "ip": "192.168.1.75",
+    "nvr": "NVR-4",
+    "channel": 1,
+    "last_seen": "12-09-2026 03:33:11 PM"
+  },
+  "name:in   p4": {
+    "identity": "name:in   p4",
+    "camera": "IN   P4",
+    "ip": "192.168.1.198",
+    "nvr": "NVR-11",
+    "channel": 1,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in    l1": {
+    "identity": "name:in    l1",
+    "camera": "IN    L1",
+    "ip": "192.168.1.183",
+    "nvr": "NVR-10",
+    "channel": 1,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "ip:192.168.1.199": {
+    "identity": "ip:192.168.1.199",
+    "camera": "Camera 01",
+    "ip": "192.168.1.199",
+    "nvr": "NVR-11",
+    "channel": 2,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in    n4": {
+    "identity": "name:in    n4",
+    "camera": "IN    N4",
+    "ip": "192.168.1.184",
+    "nvr": "NVR-10",
+    "channel": 2,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "ip:192.168.1.200": {
+    "identity": "ip:192.168.1.200",
+    "camera": "Camera 01",
+    "ip": "192.168.1.200",
+    "nvr": "NVR-11",
+    "channel": 3,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in   l2": {
+    "identity": "name:in   l2",
+    "camera": "IN   L2",
+    "ip": "192.168.1.185",
+    "nvr": "NVR-10",
+    "channel": 3,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in   r1": {
+    "identity": "name:in   r1",
+    "camera": "IN   R1",
+    "ip": "192.168.1.212",
+    "nvr": "NVR-11",
+    "channel": 4,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "ip:192.168.1.186": {
+    "identity": "ip:192.168.1.186",
+    "camera": "Camera 01",
+    "ip": "192.168.1.186",
+    "nvr": "NVR-10",
+    "channel": 4,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in   p3": {
+    "identity": "name:in   p3",
+    "camera": "IN   P3",
+    "ip": "192.168.1.201",
+    "nvr": "NVR-11",
+    "channel": 5,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in   m3": {
+    "identity": "name:in   m3",
+    "camera": "IN   M3",
+    "ip": "192.168.1.187",
+    "nvr": "NVR-10",
+    "channel": 5,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in   r gallery": {
+    "identity": "name:in   r gallery",
+    "camera": "IN   R GALLERY",
+    "ip": "192.168.1.202",
+    "nvr": "NVR-11",
+    "channel": 6,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in   m2": {
+    "identity": "name:in   m2",
+    "camera": "IN   M2",
+    "ip": "192.168.1.188",
+    "nvr": "NVR-10",
+    "channel": 6,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:gallery 1": {
+    "identity": "name:gallery 1",
+    "camera": "GALLERY 1",
+    "ip": "192.168.1.203",
+    "nvr": "NVR-11",
+    "channel": 7,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in   o1": {
+    "identity": "name:in   o1",
+    "camera": "IN   O1",
+    "ip": "192.168.1.189",
+    "nvr": "NVR-10",
+    "channel": 7,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in   p1": {
+    "identity": "name:in   p1",
+    "camera": "IN   P1",
+    "ip": "192.168.1.204",
+    "nvr": "NVR-11",
+    "channel": 8,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in   l4": {
+    "identity": "name:in   l4",
+    "camera": "IN   L4",
+    "ip": "192.168.1.190",
+    "nvr": "NVR-10",
+    "channel": 8,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "ip:192.168.1.205": {
+    "identity": "ip:192.168.1.205",
+    "camera": "Camera 01",
+    "ip": "192.168.1.205",
+    "nvr": "NVR-11",
+    "channel": 9,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:in    o4": {
+    "identity": "name:in    o4",
+    "camera": "IN    O4",
+    "ip": "192.168.1.191",
+    "nvr": "NVR-10",
+    "channel": 9,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:in   m1": {
+    "identity": "name:in   m1",
+    "camera": "IN   M1",
+    "ip": "192.168.1.192",
+    "nvr": "NVR-10",
+    "channel": 10,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:in  t1": {
+    "identity": "name:in  t1",
+    "camera": "IN  T1",
+    "ip": "192.168.1.207",
+    "nvr": "NVR-11",
+    "channel": 11,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:in   m4": {
+    "identity": "name:in   m4",
+    "camera": "IN   M4",
+    "ip": "192.168.1.193",
+    "nvr": "NVR-10",
+    "channel": 11,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "ip:192.168.1.208": {
+    "identity": "ip:192.168.1.208",
+    "camera": "Camera 01",
+    "ip": "192.168.1.208",
+    "nvr": "NVR-11",
+    "channel": 12,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:in   n3": {
+    "identity": "name:in   n3",
+    "camera": "IN   N3",
+    "ip": "192.168.1.197",
+    "nvr": "NVR-10",
+    "channel": 12,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:gallery 2": {
+    "identity": "name:gallery 2",
+    "camera": "GALLERY 2",
+    "ip": "192.168.1.209",
+    "nvr": "NVR-11",
+    "channel": 13,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "ip:192.168.1.194": {
+    "identity": "ip:192.168.1.194",
+    "camera": "Camera 01",
+    "ip": "192.168.1.194",
+    "nvr": "NVR-10",
+    "channel": 13,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "ip:192.168.1.210": {
+    "identity": "ip:192.168.1.210",
+    "camera": "Camera 01",
+    "ip": "192.168.1.210",
+    "nvr": "NVR-11",
+    "channel": 14,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:in    n1": {
+    "identity": "name:in    n1",
+    "camera": "IN    N1",
+    "ip": "192.168.1.195",
+    "nvr": "NVR-10",
+    "channel": 14,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "ip:192.168.1.211": {
+    "identity": "ip:192.168.1.211",
+    "camera": "Camera 01",
+    "ip": "192.168.1.211",
+    "nvr": "NVR-11",
+    "channel": 15,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:in   o3": {
+    "identity": "name:in   o3",
+    "camera": "IN   O3",
+    "ip": "192.168.1.196",
+    "nvr": "NVR-10",
+    "channel": 15,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  },
+  "name:in     e 8": {
+    "identity": "name:in     e 8",
+    "camera": "IN     E 8",
+    "ip": "192.168.1.213",
+    "nvr": "NVR-12",
+    "channel": 1,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in    g5": {
+    "identity": "name:in    g5",
+    "camera": "IN    G5",
+    "ip": "192.168.1.215",
+    "nvr": "NVR-12",
+    "channel": 3,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in    e5": {
+    "identity": "name:in    e5",
+    "camera": "IN    E5",
+    "ip": "192.168.1.217",
+    "nvr": "NVR-12",
+    "channel": 4,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in     f5": {
+    "identity": "name:in     f5",
+    "camera": "IN     F5",
+    "ip": "192.168.1.219",
+    "nvr": "NVR-12",
+    "channel": 5,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in     g6": {
+    "identity": "name:in     g6",
+    "camera": "IN     G6",
+    "ip": "192.168.1.220",
+    "nvr": "NVR-12",
+    "channel": 6,
+    "last_seen": "12-09-2026 03:33:12 PM"
+  },
+  "name:in     f8": {
+    "identity": "name:in     f8",
+    "camera": "IN     F8",
+    "ip": "192.168.1.214",
+    "nvr": "NVR-12",
+    "channel": 7,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in   d 7": {
+    "identity": "name:in   d 7",
+    "camera": "IN   D 7",
+    "ip": "192.168.1.223",
+    "nvr": "NVR-12",
+    "channel": 8,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in    d5": {
+    "identity": "name:in    d5",
+    "camera": "IN    D5",
+    "ip": "192.168.1.216",
+    "nvr": "NVR-12",
+    "channel": 9,
+    "last_seen": "12-09-2026 03:33:13 PM"
+  },
+  "name:in   e6": {
+    "identity": "name:in   e6",
+    "camera": "IN   E6",
+    "ip": "192.168.1.224",
+    "nvr": "NVR-12",
+    "channel": 10,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:in   d6": {
+    "identity": "name:in   d6",
+    "camera": "IN   D6",
+    "ip": "192.168.1.221",
+    "nvr": "NVR-12",
+    "channel": 11,
+    "last_seen": "12-09-2026 03:33:14 PM"
+  },
+  "name:in     e7": {
+    "identity": "name:in     e7",
+    "camera": "IN     E7",
+    "ip": "192.168.1.226",
+    "nvr": "NVR-12",
+    "channel": 12,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:in     f 7": {
+    "identity": "name:in     f 7",
+    "camera": "IN     F 7",
+    "ip": "192.168.1.218",
+    "nvr": "NVR-12",
+    "channel": 13,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:in     f6": {
+    "identity": "name:in     f6",
+    "camera": "IN     F6",
+    "ip": "192.168.1.222",
+    "nvr": "NVR-12",
+    "channel": 14,
+    "last_seen": "12-09-2026 03:33:15 PM"
+  },
+  "name:in     g7": {
+    "identity": "name:in     g7",
+    "camera": "IN     G7",
+    "ip": "192.168.1.225",
+    "nvr": "NVR-12",
+    "channel": 15,
+    "last_seen": "12-09-2026 03:33:16 PM"
+  }
+}

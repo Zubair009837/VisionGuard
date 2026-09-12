@@ -1,0 +1,2133 @@
+/* ==========================================================
+   VISIONGUARD AI
+   TATA 1MG NVR SECURITY OPERATIONS CENTER
+   PREMIUM MISSION CONTROL UI
+   ========================================================== */
+
+
+/* ==========================================================
+   GLOBAL
+   ========================================================== */
+
+:root {
+
+  --vg-bg:
+    #07111f;
+
+  --vg-bg-secondary:
+    #0b1628;
+
+  --vg-panel:
+    rgba(18, 31, 51, 0.88);
+
+  --vg-panel-light:
+    rgba(25, 42, 67, 0.92);
+
+  --vg-border:
+    rgba(148, 163, 184, 0.14);
+
+  --vg-text:
+    #f8fafc;
+
+  --vg-muted:
+    #94a3b8;
+
+  --vg-blue:
+    #3b82f6;
+
+  --vg-green:
+    #22c55e;
+
+  --vg-red:
+    #ef4444;
+
+  --vg-orange:
+    #f59e0b;
+
+  --vg-purple:
+    #a855f7;
+
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+
+  margin: 0;
+
+  background:
+    radial-gradient(
+      circle at 20% 0%,
+      rgba(37, 99, 235, 0.12),
+      transparent 32%
+    ),
+    radial-gradient(
+      circle at 90% 20%,
+      rgba(14, 165, 233, 0.08),
+      transparent 28%
+    ),
+    #07111f;
+
+  color: var(--vg-text);
+
+}
+
+
+/* ==========================================================
+   DASHBOARD
+   ========================================================== */
+
+.vg-dashboard {
+
+  min-height: 100vh;
+
+  padding:
+    22px 24px 40px;
+
+  background:
+    linear-gradient(
+      180deg,
+      rgba(7, 17, 31, 0.98),
+      rgba(7, 17, 31, 0.96)
+    );
+
+}
+
+
+/* ==========================================================
+   HERO
+   ========================================================== */
+
+.vg-hero {
+
+  position: relative;
+
+  display: flex;
+
+  justify-content:
+    space-between;
+
+  align-items:
+    center;
+
+  gap: 24px;
+
+  padding:
+    25px 28px;
+
+  margin-bottom: 22px;
+
+  overflow: hidden;
+
+  border:
+    1px solid
+    rgba(59, 130, 246, 0.20);
+
+  border-radius:
+    22px;
+
+  background:
+
+    linear-gradient(
+      135deg,
+      rgba(19, 39, 68, 0.96),
+      rgba(8, 21, 39, 0.98)
+    );
+
+  box-shadow:
+    0 20px 60px
+    rgba(0, 0, 0, 0.30);
+
+}
+
+
+.vg-hero::before {
+
+  content: "";
+
+  position: absolute;
+
+  inset: 0;
+
+  background:
+    linear-gradient(
+      90deg,
+      transparent,
+      rgba(59, 130, 246, 0.06),
+      transparent
+    );
+
+  animation:
+    vgHeroSweep 6s linear infinite;
+
+}
+
+
+.vg-hero-glow {
+
+  position: absolute;
+
+  width: 250px;
+
+  height: 250px;
+
+  border-radius: 50%;
+
+  filter: blur(80px);
+
+  pointer-events: none;
+
+}
+
+
+.vg-glow-one {
+
+  right: 20%;
+
+  top: -150px;
+
+  background:
+    rgba(37, 99, 235, 0.20);
+
+}
+
+
+.vg-glow-two {
+
+  left: 30%;
+
+  bottom: -170px;
+
+  background:
+    rgba(14, 165, 233, 0.12);
+
+}
+
+
+/* ==========================================================
+   HERO CONTENT
+   ========================================================== */
+
+.vg-hero-content {
+
+  position: relative;
+
+  z-index: 2;
+
+  min-width: 0;
+
+}
+
+
+.vg-live-line {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 9px;
+
+  margin-bottom: 12px;
+
+  font-size: 11px;
+
+  font-weight: 800;
+
+  letter-spacing: 1.8px;
+
+  color:
+    #86efac;
+
+}
+
+
+.vg-live-dot {
+
+  width: 9px;
+
+  height: 9px;
+
+  border-radius: 50%;
+
+  background:
+    var(--vg-green);
+
+  box-shadow:
+    0 0 0 5px
+    rgba(34, 197, 94, 0.10),
+    0 0 16px
+    rgba(34, 197, 94, 0.85);
+
+  animation:
+    vgLivePulse 1.5s infinite;
+
+}
+
+
+.vg-live-pulse {
+
+  opacity: 0.5;
+
+  animation:
+    vgBlink 1.5s infinite;
+
+}
+
+
+/* ==========================================================
+   TITLE
+   ========================================================== */
+
+.vg-title-wrapper {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 15px;
+
+}
+
+
+.vg-shield {
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  flex-shrink: 0;
+
+  width: 54px;
+
+  height: 54px;
+
+  border-radius: 16px;
+
+  font-size: 27px;
+
+  background:
+    linear-gradient(
+      135deg,
+      #2563eb,
+      #0ea5e9
+    );
+
+  box-shadow:
+    0 10px 30px
+    rgba(37, 99, 235, 0.35);
+
+  animation:
+    vgShieldFloat 4s ease-in-out infinite;
+
+}
+
+
+.vg-main-title {
+
+  margin: 0;
+
+  font-size:
+    clamp(23px, 2.4vw, 36px);
+
+  line-height: 1.15;
+
+  font-weight: 850;
+
+  letter-spacing:
+    -0.7px;
+
+  color:
+    #f8fafc;
+
+}
+
+
+.vg-main-title span {
+
+  display: inline-block;
+
+}
+
+
+.vg-main-title > span:first-child {
+
+  background:
+    linear-gradient(
+      90deg,
+      #ffffff,
+      #93c5fd,
+      #ffffff
+    );
+
+  background-size:
+    200% auto;
+
+  -webkit-background-clip: text;
+
+  background-clip: text;
+
+  color: transparent;
+
+  animation:
+    vgTextShine 5s linear infinite;
+
+}
+
+
+.vg-title-separator {
+
+  margin:
+    0 9px;
+
+  color:
+    #3b82f6;
+
+}
+
+
+.vg-subtitle {
+
+  margin:
+    7px 0 0;
+
+  color:
+    #8fa3bc;
+
+  font-size:
+    13px;
+
+  letter-spacing:
+    0.25px;
+
+}
+
+
+/* ==========================================================
+   MOVING TITLE TRACK
+   ========================================================== */
+
+.vg-title-track {
+
+  position: relative;
+
+  width: 100%;
+
+  max-width: 850px;
+
+  margin-top: 16px;
+
+  overflow: hidden;
+
+  border-top:
+    1px solid
+    rgba(148, 163, 184, 0.10);
+
+  border-bottom:
+    1px solid
+    rgba(148, 163, 184, 0.10);
+
+  padding:
+    7px 0;
+
+}
+
+
+.vg-title-track::before,
+.vg-title-track::after {
+
+  content: "";
+
+  position: absolute;
+
+  z-index: 2;
+
+  top: 0;
+
+  width: 90px;
+
+  height: 100%;
+
+  pointer-events: none;
+
+}
+
+
+.vg-title-track::before {
+
+  left: 0;
+
+  background:
+    linear-gradient(
+      90deg,
+      #10213a,
+      transparent
+    );
+
+}
+
+
+.vg-title-track::after {
+
+  right: 0;
+
+  background:
+    linear-gradient(
+      270deg,
+      #10213a,
+      transparent
+    );
+
+}
+
+
+.vg-title-track-line {
+
+  display: flex;
+
+  width: max-content;
+
+  gap: 28px;
+
+  color:
+    #64748b;
+
+  font-size:
+    10px;
+
+  font-weight:
+    700;
+
+  letter-spacing:
+    1.5px;
+
+  white-space:
+    nowrap;
+
+  animation:
+    vgMarquee 28s linear infinite;
+
+}
+
+
+.vg-title-track-line span:nth-child(odd) {
+
+  color:
+    #94a3b8;
+
+}
+
+
+/* ==========================================================
+   HERO ACTIONS
+   ========================================================== */
+
+.vg-hero-actions {
+
+  position: relative;
+
+  z-index: 3;
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 12px;
+
+}
+
+
+.vg-system-status {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 10px;
+
+  padding:
+    10px 14px;
+
+  border:
+    1px solid
+    rgba(34, 197, 94, 0.20);
+
+  border-radius:
+    13px;
+
+  background:
+    rgba(34, 197, 94, 0.07);
+
+}
+
+
+.vg-status-light {
+
+  width: 9px;
+
+  height: 9px;
+
+  border-radius: 50%;
+
+  background:
+    var(--vg-green);
+
+  box-shadow:
+    0 0 13px
+    var(--vg-green);
+
+  animation:
+    vgLivePulse 1.6s infinite;
+
+}
+
+
+.vg-system-status strong {
+
+  display: block;
+
+  color:
+    #dcfce7;
+
+  font-size:
+    12px;
+
+}
+
+
+.vg-system-status small {
+
+  display: block;
+
+  color:
+    #6ee7b7;
+
+  font-size:
+    9px;
+
+}
+
+
+.vg-last-update {
+
+  text-align: right;
+
+  padding:
+    0 8px;
+
+}
+
+
+.vg-last-update small {
+
+  display: block;
+
+  color:
+    #64748b;
+
+  font-size:
+    9px;
+
+  letter-spacing:
+    1px;
+
+}
+
+
+.vg-last-update strong {
+
+  display: block;
+
+  margin-top:
+    3px;
+
+  color:
+    #cbd5e1;
+
+  font-size:
+    12px;
+
+}
+
+
+.vg-refresh-btn {
+
+  border:
+    1px solid
+    rgba(59, 130, 246, 0.35);
+
+  border-radius:
+    12px;
+
+  padding:
+    10px 14px;
+
+  color:
+    #dbeafe;
+
+  background:
+    rgba(37, 99, 235, 0.16);
+
+  transition:
+    all 0.25s ease;
+
+}
+
+
+.vg-refresh-btn:hover {
+
+  transform:
+    translateY(-2px);
+
+  border-color:
+    rgba(96, 165, 250, 0.65);
+
+  background:
+    rgba(37, 99, 235, 0.28);
+
+  box-shadow:
+    0 8px 25px
+    rgba(37, 99, 235, 0.20);
+
+}
+
+
+.vg-refreshing span {
+
+  display: inline-block;
+
+  animation:
+    vgSpin 0.8s linear infinite;
+
+}
+
+
+/* ==========================================================
+   BACKEND ALERT
+   ========================================================== */
+
+.vg-backend-alert {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 14px;
+
+  margin-bottom:
+    20px;
+
+  padding:
+    14px 18px;
+
+  border:
+    1px solid
+    rgba(248, 113, 113, 0.25);
+
+  border-radius:
+    16px;
+
+  background:
+    rgba(127, 29, 29, 0.20);
+
+}
+
+
+.vg-alert-icon {
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  width: 38px;
+
+  height: 38px;
+
+  border-radius: 11px;
+
+  color:
+    #fecaca;
+
+  background:
+    rgba(239, 68, 68, 0.16);
+
+}
+
+
+.vg-backend-alert strong {
+
+  color:
+    #fecaca;
+
+  font-size:
+    13px;
+
+}
+
+
+.vg-backend-alert p {
+
+  margin:
+    2px 0 0;
+
+  color:
+    #94a3b8;
+
+  font-size:
+    11px;
+
+}
+
+
+.vg-alert-refresh {
+
+  margin-left: auto;
+
+  padding:
+    7px 14px;
+
+  border:
+    1px solid
+    rgba(248, 113, 113, 0.30);
+
+  border-radius:
+    9px;
+
+  color:
+    #fecaca;
+
+  background:
+    rgba(239, 68, 68, 0.12);
+
+}
+
+
+/* ==========================================================
+   STATUS GRID
+   ========================================================== */
+
+.vg-status-grid {
+
+  display: grid;
+
+  grid-template-columns:
+    repeat(4, minmax(0, 1fr));
+
+  gap:
+    16px;
+
+  margin-bottom:
+    20px;
+
+}
+
+
+/* ==========================================================
+   PREMIUM CARDS
+   ========================================================== */
+
+.vg-premium-card {
+
+  position: relative;
+
+  overflow: hidden;
+
+  padding:
+    20px;
+
+  min-height:
+    175px;
+
+  border:
+    1px solid
+    var(--vg-border);
+
+  border-radius:
+    18px;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(20, 34, 56, 0.94),
+      rgba(10, 22, 38, 0.96)
+    );
+
+  box-shadow:
+    0 12px 35px
+    rgba(0, 0, 0, 0.18);
+
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease,
+    border-color 0.3s ease;
+
+  animation:
+    vgCardFloat 5s ease-in-out infinite;
+
+}
+
+
+.vg-premium-card:nth-child(2) {
+  animation-delay: .5s;
+}
+
+
+.vg-premium-card:nth-child(3) {
+  animation-delay: 1s;
+}
+
+
+.vg-premium-card:nth-child(4) {
+  animation-delay: 1.5s;
+}
+
+
+.vg-premium-card:hover {
+
+  transform:
+    translateY(-6px);
+
+  box-shadow:
+    0 18px 45px
+    rgba(0, 0, 0, 0.32);
+
+}
+
+
+.vg-premium-card::after {
+
+  content: "";
+
+  position: absolute;
+
+  top: -60px;
+
+  right: -60px;
+
+  width: 150px;
+
+  height: 150px;
+
+  border-radius: 50%;
+
+  opacity: 0.12;
+
+  filter: blur(25px);
+
+}
+
+
+.vg-card-blue::after {
+  background: #3b82f6;
+}
+
+
+.vg-card-green::after {
+  background: #22c55e;
+}
+
+
+.vg-card-red::after {
+  background: #ef4444;
+}
+
+
+.vg-card-orange::after {
+  background: #f59e0b;
+}
+
+
+.vg-card-top {
+
+  position: relative;
+
+  z-index: 1;
+
+  display: flex;
+
+  justify-content:
+    space-between;
+
+  align-items:
+    flex-start;
+
+}
+
+
+.vg-card-label {
+
+  display: block;
+
+  color:
+    #64748b;
+
+  font-size:
+    10px;
+
+  font-weight:
+    800;
+
+  letter-spacing:
+    1.3px;
+
+}
+
+
+.vg-premium-card h2 {
+
+  margin:
+    8px 0 0;
+
+  color:
+    #f8fafc;
+
+  font-size:
+    36px;
+
+  font-weight:
+    850;
+
+}
+
+
+.vg-premium-card h2 small {
+
+  color:
+    #64748b;
+
+  font-size:
+    18px;
+
+  font-weight:
+    600;
+
+}
+
+
+.vg-card-icon {
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  width: 52px;
+
+  height: 52px;
+
+  border-radius: 15px;
+
+  font-size:
+    22px;
+
+  background:
+    rgba(255,255,255,0.04);
+
+  border:
+    1px solid
+    rgba(255,255,255,0.08);
+
+}
+
+
+.vg-card-bottom {
+
+  display: flex;
+
+  justify-content:
+    space-between;
+
+  align-items: center;
+
+  margin-top:
+    20px;
+
+  color:
+    #64748b;
+
+  font-size:
+    10px;
+
+}
+
+
+.vg-card-bottom strong {
+
+  color:
+    #cbd5e1;
+
+  font-size:
+    11px;
+
+}
+
+
+.vg-card-green .vg-card-bottom strong {
+  color: #4ade80;
+}
+
+
+.vg-card-red .vg-card-bottom strong {
+  color: #f87171;
+}
+
+
+.vg-card-orange .vg-card-bottom strong {
+  color: #fbbf24;
+}
+
+
+.vg-progress {
+
+  height:
+    4px;
+
+  margin-top:
+    9px;
+
+  overflow: hidden;
+
+  border-radius:
+    99px;
+
+  background:
+    rgba(148, 163, 184, 0.10);
+
+}
+
+
+.vg-progress div {
+
+  height:
+    100%;
+
+  border-radius:
+    inherit;
+
+  background:
+    currentColor;
+
+  transition:
+    width 0.8s ease;
+
+}
+
+
+.vg-card-blue {
+  color: #3b82f6;
+}
+
+
+.vg-card-green {
+  color: #22c55e;
+}
+
+
+.vg-card-red {
+  color: #ef4444;
+}
+
+
+.vg-card-orange {
+  color: #f59e0b;
+}
+
+
+/* ==========================================================
+   NVR INFRASTRUCTURE
+   ========================================================== */
+
+.vg-nvr-strip {
+
+  padding:
+    18px 20px;
+
+  margin-bottom:
+    20px;
+
+  border:
+    1px solid
+    var(--vg-border);
+
+  border-radius:
+    18px;
+
+  background:
+    rgba(15, 29, 48, 0.84);
+
+}
+
+
+.vg-section-title {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 11px;
+
+}
+
+
+.vg-section-icon {
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  width: 40px;
+
+  height: 40px;
+
+  border-radius: 12px;
+
+  background:
+    rgba(37, 99, 235, 0.13);
+
+}
+
+
+.vg-section-title h3 {
+
+  margin: 0;
+
+  font-size:
+    14px;
+
+  font-weight:
+    800;
+
+}
+
+
+.vg-section-title span {
+
+  color:
+    #64748b;
+
+  font-size:
+    10px;
+
+}
+
+
+.vg-nvr-summary {
+
+  display: flex;
+
+  gap:
+    25px;
+
+  margin-top:
+    15px;
+
+}
+
+
+.vg-mini-stat {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 9px;
+
+}
+
+
+.vg-mini-icon {
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  width: 32px;
+
+  height: 32px;
+
+  border-radius: 9px;
+
+  font-weight:
+    800;
+
+}
+
+
+.vg-mini-icon.blue {
+  color: #60a5fa;
+  background: rgba(59,130,246,.12);
+}
+
+
+.vg-mini-icon.green {
+  color: #4ade80;
+  background: rgba(34,197,94,.12);
+}
+
+
+.vg-mini-icon.red {
+  color: #f87171;
+  background: rgba(239,68,68,.12);
+}
+
+
+.vg-mini-stat small {
+
+  display: block;
+
+  color:
+    #64748b;
+
+  font-size:
+    8px;
+
+  font-weight:
+    800;
+
+}
+
+
+.vg-mini-stat strong {
+
+  display: block;
+
+  margin-top:
+    2px;
+
+  font-size:
+    16px;
+
+}
+
+
+.vg-nvr-list {
+
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 8px;
+
+  margin-top:
+    15px;
+
+}
+
+
+.vg-nvr-pill {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 7px;
+
+  padding:
+    6px 10px;
+
+  border-radius:
+    8px;
+
+  font-size:
+    9px;
+
+  border:
+    1px solid
+    rgba(148,163,184,.10);
+
+  background:
+    rgba(255,255,255,.025);
+
+}
+
+
+.vg-nvr-pill > span {
+
+  width: 6px;
+
+  height: 6px;
+
+  border-radius: 50%;
+
+}
+
+
+.vg-nvr-pill.online > span {
+
+  background:
+    #22c55e;
+
+  box-shadow:
+    0 0 8px
+    #22c55e;
+
+}
+
+
+.vg-nvr-pill.offline > span {
+
+  background:
+    #ef4444;
+
+  box-shadow:
+    0 0 8px
+    #ef4444;
+
+}
+
+
+.vg-nvr-pill.online small {
+  color: #4ade80;
+}
+
+
+.vg-nvr-pill.offline small {
+  color: #f87171;
+}
+
+
+/* ==========================================================
+   PANELS
+   ========================================================== */
+
+.vg-panel {
+
+  height: 100%;
+
+  padding:
+    20px;
+
+  border:
+    1px solid
+    var(--vg-border);
+
+  border-radius:
+    18px;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(20, 34, 56, 0.93),
+      rgba(10, 22, 38, 0.96)
+    );
+
+}
+
+
+.vg-panel-header {
+
+  display: flex;
+
+  justify-content:
+    space-between;
+
+  align-items:
+    center;
+
+  margin-bottom:
+    16px;
+
+}
+
+
+.vg-panel-header > div:first-child {
+
+  display: flex;
+
+  align-items:
+    center;
+
+  gap:
+    10px;
+
+}
+
+
+.vg-panel-icon {
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  width: 38px;
+
+  height: 38px;
+
+  border-radius: 10px;
+
+  background:
+    rgba(59,130,246,.12);
+
+}
+
+
+.vg-panel-header h3 {
+
+  margin: 0;
+
+  font-size:
+    13px;
+
+  font-weight:
+    800;
+
+}
+
+
+.vg-panel-header span {
+
+  color:
+    #64748b;
+
+  font-size:
+    9px;
+
+}
+
+
+.vg-ai-live,
+.vg-live-badge,
+.vg-chart-live {
+
+  padding:
+    5px 9px;
+
+  border:
+    1px solid
+    rgba(34,197,94,.20);
+
+  border-radius:
+    7px;
+
+  color:
+    #4ade80 !important;
+
+  background:
+    rgba(34,197,94,.07);
+
+  font-size:
+    8px !important;
+
+  font-weight:
+    800;
+
+}
+
+
+/* ==========================================================
+   OVERVIEW
+   ========================================================== */
+
+.vg-overview-grid {
+
+  display: grid;
+
+  grid-template-columns:
+    repeat(2, 1fr);
+
+  gap:
+    12px;
+
+}
+
+
+.vg-overview-item {
+
+  display: grid;
+
+  grid-template-columns:
+    36px 1fr;
+
+  column-gap:
+    10px;
+
+  align-items:
+    center;
+
+  padding:
+    13px;
+
+  border:
+    1px solid
+    rgba(148,163,184,.08);
+
+  border-radius:
+    12px;
+
+  background:
+    rgba(255,255,255,.025);
+
+}
+
+
+.vg-overview-item > div {
+
+  grid-row:
+    span 2;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  width: 34px;
+
+  height: 34px;
+
+  border-radius:
+    10px;
+
+}
+
+
+.vg-overview-item span {
+
+  color:
+    #94a3b8;
+
+  font-size:
+    10px;
+
+}
+
+
+.vg-overview-item strong {
+
+  margin-top:
+    2px;
+
+  font-size:
+    11px;
+
+}
+
+
+.vg-overview-item.success > div {
+  color: #4ade80;
+  background: rgba(34,197,94,.10);
+}
+
+
+.vg-overview-item.info > div {
+  color: #60a5fa;
+  background: rgba(59,130,246,.10);
+}
+
+
+.vg-overview-item.warning > div {
+  color: #fbbf24;
+  background: rgba(245,158,11,.10);
+}
+
+
+.vg-overview-item.purple > div {
+  color: #c084fc;
+  background: rgba(168,85,247,.10);
+}
+
+
+/* ==========================================================
+   CHART PANELS
+   ========================================================== */
+
+.vg-chart-panel {
+
+  padding:
+    18px;
+
+  border:
+    1px solid
+    var(--vg-border);
+
+  border-radius:
+    18px;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(20,34,56,.92),
+      rgba(10,22,38,.96)
+    );
+
+}
+
+
+.vg-chart-header {
+
+  display: flex;
+
+  justify-content:
+    space-between;
+
+  align-items:
+    center;
+
+  margin-bottom:
+    10px;
+
+}
+
+
+.vg-chart-header h3 {
+
+  margin: 0;
+
+  font-size:
+    13px;
+
+  font-weight:
+    800;
+
+}
+
+
+.vg-chart-header span {
+
+  color:
+    #64748b;
+
+  font-size:
+    9px;
+
+}
+
+
+/* ==========================================================
+   FOOTER
+   ========================================================== */
+
+.vg-dashboard-footer {
+
+  display: flex;
+
+  justify-content:
+    space-between;
+
+  align-items: center;
+
+  margin-top:
+    24px;
+
+  padding:
+    14px 4px;
+
+  border-top:
+    1px solid
+    rgba(148,163,184,.08);
+
+  color:
+    #475569;
+
+  font-size:
+    9px;
+
+  letter-spacing:
+    .4px;
+
+}
+
+
+/* ==========================================================
+   ANIMATIONS
+   ========================================================== */
+
+@keyframes vgLivePulse {
+
+  0%,
+  100% {
+
+    opacity:
+      1;
+
+    transform:
+      scale(1);
+
+  }
+
+  50% {
+
+    opacity:
+      .45;
+
+    transform:
+      scale(1.35);
+
+  }
+
+}
+
+
+@keyframes vgBlink {
+
+  0%,
+  100% {
+    opacity: .25;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+}
+
+
+@keyframes vgShieldFloat {
+
+  0%,
+  100% {
+
+    transform:
+      translateY(0);
+
+  }
+
+  50% {
+
+    transform:
+      translateY(-4px);
+
+  }
+
+}
+
+
+@keyframes vgCardFloat {
+
+  0%,
+  100% {
+
+    transform:
+      translateY(0);
+
+  }
+
+  50% {
+
+    transform:
+      translateY(-3px);
+
+  }
+
+}
+
+
+@keyframes vgTextShine {
+
+  0% {
+
+    background-position:
+      200% center;
+
+  }
+
+  100% {
+
+    background-position:
+      -200% center;
+
+  }
+
+}
+
+
+@keyframes vgMarquee {
+
+  from {
+
+    transform:
+      translateX(0);
+
+  }
+
+  to {
+
+    transform:
+      translateX(-50%);
+
+  }
+
+}
+
+
+@keyframes vgHeroSweep {
+
+  0% {
+
+    transform:
+      translateX(-100%);
+
+  }
+
+  100% {
+
+    transform:
+      translateX(100%);
+
+  }
+
+}
+
+
+@keyframes vgSpin {
+
+  from {
+
+    transform:
+      rotate(0deg);
+
+  }
+
+  to {
+
+    transform:
+      rotate(360deg);
+
+  }
+
+}
+
+
+/* ==========================================================
+   RESPONSIVE
+   ========================================================== */
+
+@media (max-width: 1200px) {
+
+  .vg-status-grid {
+
+    grid-template-columns:
+      repeat(2, 1fr);
+
+  }
+
+  .vg-hero {
+
+    align-items:
+      flex-start;
+
+    flex-direction:
+      column;
+
+  }
+
+  .vg-hero-actions {
+
+    width: 100%;
+
+    justify-content:
+      space-between;
+
+  }
+
+}
+
+
+@media (max-width: 768px) {
+
+  .vg-dashboard {
+
+    padding:
+      14px;
+
+  }
+
+  .vg-status-grid {
+
+    grid-template-columns:
+      1fr;
+
+  }
+
+  .vg-hero {
+
+    padding:
+      18px;
+
+  }
+
+  .vg-title-wrapper {
+
+    align-items:
+      flex-start;
+
+  }
+
+  .vg-main-title {
+
+    font-size:
+      22px;
+
+  }
+
+  .vg-title-separator {
+
+    display:
+      none;
+
+  }
+
+  .vg-main-title span {
+
+    display:
+      block;
+
+  }
+
+  .vg-hero-actions {
+
+    flex-wrap:
+      wrap;
+
+  }
+
+  .vg-nvr-summary {
+
+    flex-wrap:
+      wrap;
+
+  }
+
+  .vg-overview-grid {
+
+    grid-template-columns:
+      1fr;
+
+  }
+
+  .vg-dashboard-footer {
+
+    flex-direction:
+      column;
+
+    gap:
+      7px;
+
+  }
+
+}
+
+
+@media (prefers-reduced-motion: reduce) {
+
+  *,
+  *::before,
+  *::after {
+
+    animation-duration:
+      0.01ms !important;
+
+    animation-iteration-count:
+      1 !important;
+
+    scroll-behavior:
+      auto !important;
+
+  }
+
+}
+/* ==========================================================
+   TATA 1MG MISSION CONTROL - LIVE TITLE ANIMATION
+   ========================================================== */
+
+.mission-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  animation: missionTitleGlow 3s ease-in-out infinite;
+}
+
+/* Green LIVE indicator */
+.live-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  min-width: 10px;
+  border-radius: 50%;
+  background: #22c55e;
+  box-shadow:
+    0 0 6px #22c55e,
+    0 0 14px rgba(34, 197, 94, 0.7);
+  animation: liveDotPulse 1.5s ease-in-out infinite;
+}
+
+/* Title subtle movement/glow */
+@keyframes missionTitleGlow {
+  0%,
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+
+  50% {
+    opacity: 0.92;
+    transform: translateX(3px);
+  }
+}
+
+/* LIVE dot pulse */
+@keyframes liveDotPulse {
+  0%,
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  50% {
+    opacity: 0.45;
+    transform: scale(1.35);
+  }
+}
+
+/* Dashboard cards floating animation */
+.animate-card {
+  animation: cardFloat 4s ease-in-out infinite;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.animate-card:hover {
+  transform: translateY(-7px) scale(1.02);
+}
+
+.card1 {
+  animation-delay: 0s;
+}
+
+.card2 {
+  animation-delay: 0.5s;
+}
+
+.card3 {
+  animation-delay: 1s;
+}
+
+.card4 {
+  animation-delay: 1.5s;
+}
+
+@keyframes cardFloat {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-5px);
+  }
+}

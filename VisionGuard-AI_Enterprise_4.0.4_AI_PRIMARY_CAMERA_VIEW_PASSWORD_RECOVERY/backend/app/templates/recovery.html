@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Camera Recovery Alert</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#edf2f7;
+    font-family:Arial,Helvetica,sans-serif;
+    padding:40px;
+}
+
+.wrapper{
+    max-width:760px;
+    margin:auto;
+}
+
+.card{
+    background:#ffffff;
+    border-radius:12px;
+    overflow:hidden;
+    box-shadow:0 10px 25px rgba(0,0,0,.15);
+}
+
+.header{
+    background:#0f172a;
+    color:#ffffff;
+    text-align:center;
+    padding:30px;
+}
+
+.header h1{
+    font-size:30px;
+    margin-bottom:10px;
+}
+
+.header h2{
+    font-size:18px;
+    color:#cbd5e1;
+    font-weight:normal;
+}
+
+.alert{
+    background:#16a34a;
+    color:white;
+    font-size:28px;
+    text-align:center;
+    font-weight:bold;
+    padding:18px;
+    letter-spacing:1px;
+}
+
+.content{
+    padding:35px;
+}
+
+.info-table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+.info-table tr{
+    border-bottom:1px solid #e5e7eb;
+}
+
+.info-table td{
+    padding:16px;
+    font-size:16px;
+}
+
+.label{
+    width:220px;
+    font-weight:bold;
+    color:#374151;
+}
+
+.value{
+    color:#111827;
+    font-weight:600;
+}
+
+.online{
+    color:#16a34a;
+    font-weight:bold;
+}
+
+.message{
+    margin-top:30px;
+    background:#ecfdf5;
+    border-left:6px solid #16a34a;
+    padding:18px;
+    border-radius:8px;
+    color:#065f46;
+    line-height:1.7;
+}
+
+.footer{
+    background:#0f172a;
+    color:#ffffff;
+    text-align:center;
+    padding:25px;
+}
+
+.footer p{
+    margin:6px 0;
+    color:#cbd5e1;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+<div class="card">
+
+<div class="header">
+
+<h1>🛡 Tata 1mg</h1>
+
+<h2>NVR Security Operations Center</h2>
+
+</div>
+
+<div class="alert">
+
+🟢 CAMERA RECOVERED
+
+</div>
+
+<div class="content">
+
+<table class="info-table">
+
+<tr>
+<td class="label">📷 Camera Name</td>
+<td class="value">{{camera}}</td>
+</tr>
+
+<tr>
+<td class="label">🖥 NVR</td>
+<td class="value">{{nvr}}</td>
+</tr>
+
+<tr>
+<td class="label">🌐 IP Address</td>
+<td class="value">{{ip}}</td>
+</tr>
+
+<tr>
+<td class="label">📶 Status</td>
+<td class="online">{{status}}</td>
+</tr>
+
+<tr>
+<td class="label">🕒 Recovery Time</td>
+<td class="value">{{time}}</td>
+</tr>
+
+</table>
+<div class="message">
+
+<h3 style="margin-bottom:12px;color:#16a34a;">
+
+✅ Camera Connection Restored
+
+</h3>
+
+<p>
+
+The monitoring system has detected that the CCTV camera is now
+<b>ONLINE</b> and operating normally.
+
+</p>
+
+<br>
+
+<ul style="padding-left:20px;line-height:1.8;">
+
+<li>✔ Camera Connection Restored</li>
+
+<li>✔ Network Communication Normal</li>
+
+<li>✔ NVR Communication Active</li>
+
+<li>✔ Live Monitoring Resumed</li>
+
+<li>✔ Alert Closed Successfully</li>
+
+</ul>
+
+<br>
+
+<p>
+
+No further action is required unless the camera goes offline again.
+
+</p>
+
+</div>
+
+</div>
+
+<div class="footer">
+
+<h2>
+
+🛡 Tata 1mg
+
+</h2>
+
+<p>
+
+NVR Security Operations Center
+
+</p>
+
+<p>
+
+Enterprise Camera Monitoring & Alert System
+
+</p>
+
+<br>
+
+<p>
+
+Generated Automatically • Do Not Reply
+
+</p>
+
+<p>
+
+© Tata 1mg - NVR Security Operations Center
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>

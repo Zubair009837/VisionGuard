@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+requests
+opencv-python
+numpy
+pydantic
+python-multipart
+
+# Optional semantic CCTV scene understanding
+transformers>=4.45.0
+torch>=2.2.0

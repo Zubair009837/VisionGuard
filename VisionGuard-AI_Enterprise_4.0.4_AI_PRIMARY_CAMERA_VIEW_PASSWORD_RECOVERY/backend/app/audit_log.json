@@ -1,0 +1,362 @@
+[
+  {
+    "time": "2026-08-18T15:18:53",
+    "action": "Application login",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "Application",
+    "details": "Successful login"
+  },
+  {
+    "time": "2026-08-18T15:24:34",
+    "action": "Bulk camera encoding update",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "",
+    "details": "0/304 operations succeeded; changes=['resolution', 'fps', 'bitrate', 'codec', 'iframe']"
+  },
+  {
+    "time": "2026-08-18T16:41:01",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-1",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:41:43",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-1",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:43:33",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-15",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:44:46",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-16",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:45:46",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-10",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:46:53",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-8",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:47:57",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-1",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:48:25",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-15",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:48:40",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-16",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:49:25",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-8",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:49:26",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-8",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:49:26",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-8",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:49:26",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-8",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:49:26",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-8",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:49:54",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-10",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:49:54",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-10",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:49:54",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-10",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:49:54",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-10",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:51:05",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-6",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:52:54",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-3",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:53:42",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-14",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:54:04",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-13",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:55:39",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-7",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T16:57:31",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-4",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T17:00:55",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-9",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T17:01:48",
+    "action": "Camera settings updated",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "NVR-1 CH-12",
+    "details": "['name', 'ip']"
+  },
+  {
+    "time": "2026-08-18T17:20:45",
+    "action": "Bulk camera encoding update",
+    "category": "CAMERA",
+    "actor": "VisionGuard",
+    "target": "",
+    "details": "0/304 operations succeeded; changes=['resolution', 'fps', 'bitrate', 'codec', 'iframe']"
+  },
+  {
+    "time": "2026-09-11T18:24:50",
+    "action": "Application password reset requested",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "Application",
+    "details": "Password reset link sent"
+  },
+  {
+    "time": "2026-09-11T18:25:09",
+    "action": "Application password reset completed",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "Application",
+    "details": "Password reset using one-time email link"
+  },
+  {
+    "time": "2026-09-11T18:25:18",
+    "action": "Application login",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "Application",
+    "details": "Successful login"
+  },
+  {
+    "time": "2026-09-11T18:27:19",
+    "action": "Application login",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "Application",
+    "details": "Successful login"
+  },
+  {
+    "time": "2026-09-11T18:49:43",
+    "action": "Alert acknowledged",
+    "category": "ALERT",
+    "actor": "Operator",
+    "target": "NVR-1 Offline",
+    "details": "NVR-1 at 192.168.1.5:82 is unreachable. HTTP/ISAPI health check failed."
+  },
+  {
+    "time": "2026-09-11T19:01:09",
+    "action": "Application user created",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "khan",
+    "details": "Created khan (Viewer)"
+  },
+  {
+    "time": "2026-09-11T19:01:19",
+    "action": "Application login",
+    "category": "AUTH",
+    "actor": "khan",
+    "target": "Application",
+    "details": "Successful login"
+  },
+  {
+    "time": "2026-09-11T19:03:29",
+    "action": "Application login",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "Application",
+    "details": "Successful login"
+  },
+  {
+    "time": "2026-09-12T11:28:13",
+    "action": "Application password reset requested",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "Application",
+    "details": "Password reset link sent"
+  },
+  {
+    "time": "2026-09-12T11:28:24",
+    "action": "Application login",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "Application",
+    "details": "Successful login"
+  },
+  {
+    "time": "2026-09-12T11:45:54",
+    "action": "Application login",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "Application",
+    "details": "Successful login"
+  },
+  {
+    "time": "2026-09-12T11:51:36",
+    "action": "Application login failed",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "Application",
+    "details": "Invalid username/password"
+  },
+  {
+    "time": "2026-09-12T11:51:44",
+    "action": "Application password reset requested",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "Application",
+    "details": "Password reset link sent"
+  },
+  {
+    "time": "2026-09-12T14:40:29",
+    "action": "Application login",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "Application",
+    "details": "Successful login"
+  },
+  {
+    "time": "2026-09-12T14:54:37",
+    "action": "Application login",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "Application",
+    "details": "Successful login"
+  },
+  {
+    "time": "2026-09-12T14:59:13",
+    "action": "Application password reset requested",
+    "category": "AUTH",
+    "actor": "admin",
+    "target": "Application",
+    "details": "Password reset link sent"
+  }
+]

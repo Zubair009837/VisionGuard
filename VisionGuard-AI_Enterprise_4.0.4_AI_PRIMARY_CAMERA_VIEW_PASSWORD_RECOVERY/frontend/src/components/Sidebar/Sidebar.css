@@ -1,0 +1,671 @@
+/* =========================================================
+   VISIONGUARD AI - SIDEBAR
+   FULL WIDTH / FIXED SIZE / COLOR SECTIONS
+   ========================================================= */
+
+.sidebar {
+  width: 270px;
+  height: 100vh;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  display: flex;
+  flex-direction: column;
+
+  background: #0b1426;
+  color: #ffffff;
+
+  border-right: 1px solid #263650;
+
+  box-sizing: border-box;
+
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  z-index: 1000;
+}
+
+
+/* =========================================================
+   MENU
+   ========================================================= */
+
+.menu {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 6px;
+
+  /* Dashboard ko bilkul top par chipka diya */
+  padding: 0 0 12px 0;
+
+  margin: 0;
+
+  box-sizing: border-box;
+
+  flex: 1;
+
+  position: relative;
+
+  top: -22px;
+}
+
+
+/* =========================================================
+   MENU ITEM
+   ========================================================= */
+
+.menu-item {
+  width: 100% !important;
+
+  height: 47px !important;
+  min-height: 47px !important;
+  max-height: 47px !important;
+
+  flex: 0 0 47px !important;
+  flex-shrink: 0 !important;
+
+  position: relative;
+
+  display: flex;
+  align-items: center;
+
+  margin: 0 !important;
+  padding: 0 !important;
+
+  background: #131d31;
+
+  border: 1px solid #202d45;
+  border-radius: 5px;
+
+  color: #dce5f5;
+
+  text-decoration: none;
+
+  font-size: 12px;
+  font-weight: 600;
+
+  line-height: normal;
+
+  box-sizing: border-box;
+
+  overflow: hidden;
+
+  transform: none !important;
+
+  transition:
+    background 0.2s ease,
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
+
+  -webkit-tap-highlight-color: transparent;
+}
+
+
+/* =========================================================
+   LEFT COLOR BAR
+   ========================================================= */
+
+.menu-item::before {
+  content: "";
+
+  position: absolute;
+
+  left: 0;
+  top: 0;
+
+  width: 4px;
+  height: 100%;
+
+  border-radius: 5px 0 0 5px;
+
+  z-index: 1;
+}
+
+
+/* =========================================================
+   ICON
+   ========================================================= */
+
+.menu-item .icon {
+  width: 44px !important;
+  min-width: 44px !important;
+  max-width: 44px !important;
+
+  height: 47px !important;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 0 !important;
+  margin: 0 !important;
+
+  font-size: 15px;
+
+  box-sizing: border-box;
+
+  position: relative;
+  z-index: 2;
+}
+
+
+/* =========================================================
+   TEXT
+   ========================================================= */
+
+.menu-text {
+  flex: 1;
+
+  width: auto;
+
+  min-width: 0;
+  min-height: 47px;
+
+  height: 47px;
+
+  display: flex;
+  align-items: center;
+
+  padding: 0 8px 0 0 !important;
+  margin: 0 !important;
+
+  line-height: 16px;
+
+  box-sizing: border-box;
+
+  white-space: normal;
+
+  overflow: hidden;
+}
+
+
+/* =========================================================
+   HOVER
+   ========================================================= */
+
+.menu-item:hover {
+  width: 100% !important;
+
+  height: 47px !important;
+  min-height: 47px !important;
+  max-height: 47px !important;
+
+  margin: 0 !important;
+  padding: 0 !important;
+
+  transform: none !important;
+
+  background: #1b2941;
+
+  border-color: #3a4e6d;
+
+  color: #ffffff;
+
+  box-shadow:
+    0 2px 8px rgba(0, 0, 0, 0.25);
+}
+
+
+/* =========================================================
+   ACTIVE
+   ========================================================= */
+
+.menu-item.active {
+  width: 100% !important;
+
+  height: 47px !important;
+  min-height: 47px !important;
+  max-height: 47px !important;
+
+  flex: 0 0 47px !important;
+
+  margin: 0 !important;
+  padding: 0 !important;
+
+  transform: none !important;
+
+  background: #202e47;
+
+  border: 1px solid #49617f;
+
+  color: #ffffff;
+
+  box-shadow:
+    inset 0 0 0 1px rgba(255, 255, 255, 0.04),
+    0 2px 8px rgba(0, 0, 0, 0.25);
+}
+
+
+/* =========================================================
+   ACTIVE COLOR BAR
+   ========================================================= */
+
+.menu-item.active::before {
+  width: 4px;
+
+  height: 100%;
+}
+
+
+/* =========================================================
+   DASHBOARD - CYAN
+   ========================================================= */
+
+.menu-item:nth-child(1)::before {
+  background: #00d4ff;
+}
+
+.menu-item:nth-child(1) .icon {
+  color: #00d4ff;
+}
+
+
+/* =========================================================
+   LIVE VIEW - BLUE
+   ========================================================= */
+
+.menu-item:nth-child(2)::before {
+  background: #2196f3;
+}
+
+.menu-item:nth-child(2) .icon {
+  color: #2196f3;
+}
+
+
+/* =========================================================
+   HISTORICAL RECORDING - PURPLE
+   ========================================================= */
+
+.menu-item:nth-child(3)::before {
+  background: #9c6cff;
+}
+
+.menu-item:nth-child(3) .icon {
+  color: #9c6cff;
+}
+
+
+/* =========================================================
+   CAMERAS - GREEN
+   ========================================================= */
+
+.menu-item:nth-child(4)::before {
+  background: #00e676;
+}
+
+.menu-item:nth-child(4) .icon {
+  color: #00e676;
+}
+
+
+/* =========================================================
+   NVR - VIOLET
+   ========================================================= */
+
+.menu-item:nth-child(5)::before {
+  background: #8e5cff;
+}
+
+.menu-item:nth-child(5) .icon {
+  color: #8e5cff;
+}
+
+
+/* =========================================================
+   NVR CONTROL CENTER - ORANGE
+   ========================================================= */
+
+.menu-item:nth-child(6)::before {
+  background: #ff9800;
+}
+
+.menu-item:nth-child(6) .icon {
+  color: #ff9800;
+}
+
+
+/* =========================================================
+   HEALTH CENTER - TEAL
+   ========================================================= */
+
+.menu-item:nth-child(7)::before {
+  background: #00e5c3;
+}
+
+.menu-item:nth-child(7) .icon {
+  color: #00e5c3;
+}
+
+
+/* =========================================================
+   ALERTS - RED
+   ========================================================= */
+
+.menu-item:nth-child(8)::before {
+  background: #ff4757;
+}
+
+.menu-item:nth-child(8) .icon {
+  color: #ff4757;
+}
+
+
+/* =========================================================
+   WHATSAPP ALERTS - GREEN
+   ========================================================= */
+
+.menu-item:nth-child(9)::before {
+  background: #00c853;
+}
+
+.menu-item:nth-child(9) .icon {
+  color: #00c853;
+}
+
+
+/* =========================================================
+   CAMERA MOVEMENT - ORANGE
+   ========================================================= */
+
+.menu-item:nth-child(10)::before {
+  background: #ff7a00;
+}
+
+.menu-item:nth-child(10) .icon {
+  color: #ff7a00;
+}
+
+
+/* =========================================================
+   ANALYTICS - BLUE
+   ========================================================= */
+
+.menu-item:nth-child(11)::before {
+  background: #2979ff;
+}
+
+.menu-item:nth-child(11) .icon {
+  color: #2979ff;
+}
+
+
+/* =========================================================
+   FLOOR MAP - CYAN
+   ========================================================= */
+
+.menu-item:nth-child(12)::before {
+  background: #00b8d4;
+}
+
+.menu-item:nth-child(12) .icon {
+  color: #00b8d4;
+}
+
+
+/* =========================================================
+   STORAGE - YELLOW
+   ========================================================= */
+
+.menu-item:nth-child(13)::before {
+  background: #ffc400;
+}
+
+.menu-item:nth-child(13) .icon {
+  color: #ffc400;
+}
+
+
+/* =========================================================
+   USERS - PINK
+   ========================================================= */
+
+.menu-item:nth-child(14)::before {
+  background: #ff4081;
+}
+
+.menu-item:nth-child(14) .icon {
+  color: #ff4081;
+}
+
+
+/* =========================================================
+   REPORTS - BLUE GREY
+   ========================================================= */
+
+.menu-item:nth-child(15)::before {
+  background: #90a4ae;
+}
+
+.menu-item:nth-child(15) .icon {
+  color: #90a4ae;
+}
+
+
+/* =========================================================
+   DIAGNOSTICS - RED
+   ========================================================= */
+
+.menu-item:nth-child(16)::before {
+  background: #ff5252;
+}
+
+.menu-item:nth-child(16) .icon {
+  color: #ff5252;
+}
+
+
+/* =========================================================
+   AUDIT LOG - PURPLE
+   ========================================================= */
+
+.menu-item:nth-child(17)::before {
+  background: #ba68c8;
+}
+
+.menu-item:nth-child(17) .icon {
+  color: #ba68c8;
+}
+
+
+/* =========================================================
+   SETTINGS - GREY
+   ========================================================= */
+
+.menu-item:nth-child(18)::before {
+  background: #78909c;
+}
+
+.menu-item:nth-child(18) .icon {
+  color: #78909c;
+}
+
+
+/* =========================================================
+   DEVELOPER BOX
+   ========================================================= */
+
+.developer-box {
+  width: 100%;
+
+  margin: 0 !important;
+
+  padding: 10px;
+
+  background: #101b2e;
+
+  border-top: 1px solid #293b57;
+  border-bottom: 1px solid #293b57;
+
+  text-align: center;
+
+  box-sizing: border-box;
+
+  flex-shrink: 0;
+}
+
+
+.developer-title {
+  margin-bottom: 3px;
+
+  font-size: 9px;
+
+  color: #7f92ae;
+
+  text-transform: uppercase;
+
+  letter-spacing: 1px;
+}
+
+
+.developer-name {
+  margin-bottom: 3px;
+
+  font-size: 13px;
+
+  font-weight: 700;
+
+  color: #ffffff;
+}
+
+
+.developer-desc {
+  font-size: 9px;
+
+  line-height: 13px;
+
+  color: #8093af;
+}
+
+
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+.sidebar-footer {
+  width: 100%;
+
+  min-height: 38px;
+
+  height: 38px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  gap: 7px;
+
+  padding: 7px;
+
+  margin: 0;
+
+  background: #081120;
+
+  border-top: 1px solid #263650;
+
+  color: #8fa1bd;
+
+  font-size: 10px;
+
+  box-sizing: border-box;
+
+  flex-shrink: 0;
+}
+
+
+/* =========================================================
+   ONLINE DOT
+   ========================================================= */
+
+.status-dot {
+  width: 7px;
+  height: 7px;
+
+  border-radius: 50%;
+
+  background: #00e676;
+
+  box-shadow:
+    0 0 5px #00e676,
+    0 0 10px rgba(0, 230, 118, 0.35);
+
+  flex-shrink: 0;
+}
+
+
+/* =========================================================
+   SCROLLBAR
+   ========================================================= */
+
+.sidebar::-webkit-scrollbar {
+  width: 5px;
+}
+
+.sidebar::-webkit-scrollbar-track {
+  background: #0b1426;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+  background: #34455f;
+
+  border-radius: 10px;
+}
+
+.sidebar::-webkit-scrollbar-thumb:hover {
+  background: #4b6180;
+}
+
+
+/* =========================================================
+   SMALL SCREEN
+   ========================================================= */
+
+@media (max-width: 1000px) {
+
+  .sidebar {
+    width: 270px;
+  }
+
+  .menu-item {
+    width: 100% !important;
+    height: 47px !important;
+    min-height: 47px !important;
+    max-height: 47px !important;
+  }
+}
+
+
+/* =========================================================
+   SMALL HEIGHT
+   ========================================================= */
+
+@media (max-height: 700px) {
+
+  .menu {
+    gap: 4px;
+
+    padding-top: 0;
+    padding-bottom: 8px;
+  }
+
+  .menu-item {
+    height: 43px !important;
+    min-height: 43px !important;
+    max-height: 43px !important;
+    flex-basis: 43px !important;
+  }
+
+  .menu-item .icon {
+    height: 43px !important;
+  }
+
+  .menu-text {
+    height: 43px;
+    min-height: 43px;
+  }
+}

@@ -1,0 +1,31 @@
+VISIONGUARD AI - HISTORICAL RECORDING FINDER V5 STABLE
+
+1. Extract this ZIP to a simple folder, e.g. C:\VisionGuard-AI-HISTORICAL-RECORDING-V4
+2. Double-click RUN_BACKEND.bat and keep its window OPEN.
+3. Double-click RUN_FRONTEND.bat and keep its window OPEN.
+4. Open the URL printed by Vite (usually http://localhost:5173).
+5. Log in, then open Historical Recording Finder.
+
+IMPORTANT: Do NOT type “Uvicorn running on...” into CMD. That is output, not a command.
+
+NETWORK FIX V4:
+- Frontend dev requests use Vite /api proxy -> http://127.0.0.1:8000.
+- This avoids CORS and localhost/127.0.0.1/LAN-IP mismatch.
+- Backend also allows localhost, loopback and private LAN origins for static/local use.
+
+TEST BACKEND: http://127.0.0.1:8000/docs
+
+
+V5 FIXES:
+- Fixed the Historical Recording Finder HTTP 500 caused by the missing pathlib.Path import in the device-registry fallback.
+- Added safe historical time parsing and malformed-registry protection.
+- Fixed NVR Time-Guard empty-time handling so Invalid isoformat spam does not occur.
+- Preserved V4 Vite /api proxy network fix.
+- Camera assignment timeline continues to be populated automatically by the background NVR discovery.
+
+
+V7: NVR Time Change Email Alert is enabled. Sync Time success and drift threshold events send email to the configured receiver.
+
+
+VISION AI SEMANTIC CAMERA VIEW DETECTION
+See VISION_AI_SETUP.md. This adds local CLIP-based scene understanding while preserving the existing angle monitor.

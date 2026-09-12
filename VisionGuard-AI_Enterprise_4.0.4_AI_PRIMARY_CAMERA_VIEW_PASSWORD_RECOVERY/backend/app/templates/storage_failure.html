@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Storage Failure Alert</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    background:#edf2f7;
+
+    font-family:
+    Arial,
+    Helvetica,
+    sans-serif;
+
+    padding:40px;
+
+}
+
+.wrapper{
+
+    max-width:760px;
+
+    margin:auto;
+
+}
+
+.card{
+
+    background:#ffffff;
+
+    border-radius:12px;
+
+    overflow:hidden;
+
+    box-shadow:
+    0 10px 25px rgba(0,0,0,.15);
+
+}
+
+.header{
+
+    background:#0f172a;
+
+    color:#ffffff;
+
+    text-align:center;
+
+    padding:30px;
+
+}
+
+.header h1{
+
+    font-size:30px;
+
+    margin-bottom:10px;
+
+}
+
+.header h2{
+
+    font-size:18px;
+
+    color:#cbd5e1;
+
+    font-weight:normal;
+
+}
+
+.alert{
+
+    background:#2563eb;
+
+    color:white;
+
+    font-size:28px;
+
+    text-align:center;
+
+    font-weight:bold;
+
+    padding:18px;
+
+}
+
+.content{
+
+    padding:35px;
+
+}
+
+.info-table{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+}
+
+.info-table tr{
+
+    border-bottom:1px solid #e5e7eb;
+
+}
+
+.info-table td{
+
+    padding:16px;
+
+    font-size:16px;
+
+}
+
+.label{
+
+    width:220px;
+
+    font-weight:bold;
+
+    color:#374151;
+
+}
+
+.value{
+
+    color:#111827;
+
+    font-weight:600;
+
+}
+
+.storage{
+
+    color:#2563eb;
+
+    font-weight:bold;
+
+}
+
+.message{
+
+    margin-top:30px;
+
+    background:#eff6ff;
+
+    border-left:6px solid #2563eb;
+
+    padding:18px;
+
+    border-radius:8px;
+
+    color:#1e3a8a;
+
+    line-height:1.7;
+
+}
+
+.footer{
+
+    background:#0f172a;
+
+    color:#ffffff;
+
+    text-align:center;
+
+    padding:25px;
+
+}
+
+.footer p{
+
+    margin:6px 0;
+
+    color:#cbd5e1;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+<div class="card">
+
+<div class="header">
+
+<h1>🛡 Tata 1mg</h1>
+
+<h2>NVR Security Operations Center</h2>
+
+</div>
+
+<div class="alert">
+
+💾 STORAGE FAILURE DETECTED
+
+</div>
+
+<div class="content">
+
+<table class="info-table">
+
+<tr>
+
+<td class="label">📷 Camera</td>
+
+<td class="value">{{camera}}</td>
+
+</tr>
+
+<tr>
+
+<td class="label">🖥 NVR</td>
+
+<td class="value">{{nvr}}</td>
+
+</tr>
+
+<tr>
+
+<td class="label">🌐 IP Address</td>
+
+<td class="value">{{ip}}</td>
+
+</tr>
+
+<tr>
+
+<td class="label">💾 Status</td>
+
+<td class="storage">{{status}}</td>
+
+</tr>
+
+<tr>
+
+<td class="label">🕒 Detection Time</td>
+
+<td class="value">{{time}}</td>
+
+</tr>
+
+</table>
+
+<div class="message">
+
+<h3 style="margin-bottom:12px;color:#2563eb;">
+
+💾 Recording Storage Problem
+
+</h3>
+
+<p>
+
+The storage device associated with the NVR has reported a failure or is unavailable for recording.
+
+</p>
+
+<br>
+
+<ul style="padding-left:20px;line-height:1.8;">
+
+<li>Check HDD health status.</li>
+
+<li>Verify disk connection.</li>
+
+<li>Inspect storage capacity.</li>
+
+<li>Review bad sector information.</li>
+
+<li>Replace failed storage if necessary.</li>
+
+</ul>
+
+<br>
+
+<p>
+
+Recording may be interrupted until the storage issue is resolved.
+
+</p>
+
+</div>
+
+</div>
+
+<div class="footer">
+
+<h2>🛡 Tata 1mg</h2>
+
+<p>NVR Security Operations Center</p>
+
+<p>Enterprise CCTV Monitoring Platform</p>
+
+<br>
+
+<p>Generated Automatically • Do Not Reply</p>
+
+<p>© Tata 1mg - NVR Security Operations Center</p>
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
