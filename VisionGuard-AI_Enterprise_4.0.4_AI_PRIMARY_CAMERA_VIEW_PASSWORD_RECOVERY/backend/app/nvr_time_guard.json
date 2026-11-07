@@ -6488,6 +6488,198 @@
         "time_drift": true,
         "checked_at": "2026-09-12 15:33:02"
       }
+    },
+    {
+      "time": "2026-09-12 15:34:14",
+      "type": "NVR_TIME_DRIFT_RECOVERED",
+      "nvr": "NVR-6",
+      "ip": "192.168.1.8",
+      "details": {
+        "nvr": "NVR-6",
+        "ip": "192.168.1.8",
+        "nvr_time": "2026-09-12T15:33:15+05:30",
+        "difference_seconds": 59.8,
+        "signed_difference_seconds": 59.8,
+        "threshold_seconds": 60,
+        "time_drift": false,
+        "checked_at": "2026-09-12 15:34:14"
+      }
+    },
+    {
+      "time": "2026-09-12 15:34:21",
+      "type": "NVR_TIME_DRIFT",
+      "nvr": "NVR-6",
+      "ip": "192.168.1.8",
+      "details": {
+        "nvr": "NVR-6",
+        "ip": "192.168.1.8",
+        "nvr_time": "2026-09-12T15:33:21+05:30",
+        "difference_seconds": 60.4,
+        "signed_difference_seconds": 60.4,
+        "threshold_seconds": 60,
+        "time_drift": true,
+        "checked_at": "2026-09-12 15:34:21"
+      }
+    },
+    {
+      "time": "2026-09-12 15:34:27",
+      "type": "NVR_TIME_DRIFT_RECOVERED",
+      "nvr": "NVR-6",
+      "ip": "192.168.1.8",
+      "details": {
+        "nvr": "NVR-6",
+        "ip": "192.168.1.8",
+        "nvr_time": "2026-09-12T15:33:28+05:30",
+        "difference_seconds": 59.9,
+        "signed_difference_seconds": 59.9,
+        "threshold_seconds": 60,
+        "time_drift": false,
+        "checked_at": "2026-09-12 15:34:27"
+      }
+    },
+    {
+      "time": "2026-09-12 15:34:33",
+      "type": "NVR_TIME_DRIFT",
+      "nvr": "NVR-6",
+      "ip": "192.168.1.8",
+      "details": {
+        "nvr": "NVR-6",
+        "ip": "192.168.1.8",
+        "nvr_time": "2026-09-12T15:33:33+05:30",
+        "difference_seconds": 60.5,
+        "signed_difference_seconds": 60.5,
+        "threshold_seconds": 60,
+        "time_drift": true,
+        "checked_at": "2026-09-12 15:34:33"
+      }
+    },
+    {
+      "time": "2026-09-12 15:34:45",
+      "type": "NVR_TIME_DRIFT_RECOVERED",
+      "nvr": "NVR-6",
+      "ip": "192.168.1.8",
+      "details": {
+        "nvr": "NVR-6",
+        "ip": "192.168.1.8",
+        "nvr_time": "2026-09-12T15:33:46+05:30",
+        "difference_seconds": 59.9,
+        "signed_difference_seconds": 59.9,
+        "threshold_seconds": 60,
+        "time_drift": false,
+        "checked_at": "2026-09-12 15:34:45"
+      }
+    },
+    {
+      "time": "2026-09-12 15:35:03",
+      "type": "NVR_TIME_DRIFT",
+      "nvr": "NVR-6",
+      "ip": "192.168.1.8",
+      "details": {
+        "nvr": "NVR-6",
+        "ip": "192.168.1.8",
+        "nvr_time": "2026-09-12T15:34:03+05:30",
+        "difference_seconds": 60.6,
+        "signed_difference_seconds": 60.6,
+        "threshold_seconds": 60,
+        "time_drift": true,
+        "checked_at": "2026-09-12 15:35:03"
+      }
+    },
+    {
+      "time": "2026-09-12 15:35:25",
+      "type": "NVR_TIME_DRIFT_RECOVERED",
+      "nvr": "NVR-6",
+      "ip": "192.168.1.8",
+      "details": {
+        "nvr": "NVR-6",
+        "ip": "192.168.1.8",
+        "nvr_time": "2026-09-12T15:34:26+05:30",
+        "difference_seconds": 60.0,
+        "signed_difference_seconds": 60.0,
+        "threshold_seconds": 60,
+        "time_drift": false,
+        "checked_at": "2026-09-12 15:35:25"
+      }
+    },
+    {
+      "time": "2026-09-12 15:35:32",
+      "type": "NVR_TIME_DRIFT",
+      "nvr": "NVR-6",
+      "ip": "192.168.1.8",
+      "details": {
+        "nvr": "NVR-6",
+        "ip": "192.168.1.8",
+        "nvr_time": "2026-09-12T15:34:32+05:30",
+        "difference_seconds": 60.3,
+        "signed_difference_seconds": 60.3,
+        "threshold_seconds": 60,
+        "time_drift": true,
+        "checked_at": "2026-09-12 15:35:32"
+      }
+    },
+    {
+      "time": "2026-09-12 15:35:44",
+      "type": "NVR_TIME_DRIFT_RECOVERED",
+      "nvr": "NVR-6",
+      "ip": "192.168.1.8",
+      "details": {
+        "nvr": "NVR-6",
+        "ip": "192.168.1.8",
+        "nvr_time": "2026-09-12T15:34:45+05:30",
+        "difference_seconds": 59.8,
+        "signed_difference_seconds": 59.8,
+        "threshold_seconds": 60,
+        "time_drift": false,
+        "checked_at": "2026-09-12 15:35:44"
+      }
+    },
+    {
+      "time": "2026-09-12 15:35:50",
+      "type": "NVR_TIME_DRIFT",
+      "nvr": "NVR-6",
+      "ip": "192.168.1.8",
+      "details": {
+        "nvr": "NVR-6",
+        "ip": "192.168.1.8",
+        "nvr_time": "2026-09-12T15:34:50+05:30",
+        "difference_seconds": 60.4,
+        "signed_difference_seconds": 60.4,
+        "threshold_seconds": 60,
+        "time_drift": true,
+        "checked_at": "2026-09-12 15:35:50"
+      }
+    },
+    {
+      "time": "2026-09-12 15:36:02",
+      "type": "NVR_TIME_DRIFT_RECOVERED",
+      "nvr": "NVR-6",
+      "ip": "192.168.1.8",
+      "details": {
+        "nvr": "NVR-6",
+        "ip": "192.168.1.8",
+        "nvr_time": "2026-09-12T15:35:03+05:30",
+        "difference_seconds": 59.9,
+        "signed_difference_seconds": 59.9,
+        "threshold_seconds": 60,
+        "time_drift": false,
+        "checked_at": "2026-09-12 15:36:02"
+      }
+    },
+    {
+      "time": "2026-09-12 15:36:09",
+      "type": "NVR_TIME_DRIFT",
+      "nvr": "NVR-6",
+      "ip": "192.168.1.8",
+      "details": {
+        "nvr": "NVR-6",
+        "ip": "192.168.1.8",
+        "nvr_time": "2026-09-12T15:35:09+05:30",
+        "difference_seconds": 60.7,
+        "signed_difference_seconds": 60.7,
+        "threshold_seconds": 60,
+        "time_drift": true,
+        "checked_at": "2026-09-12 15:36:09"
+      }
     }
   ]
 }
